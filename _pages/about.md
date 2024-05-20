@@ -1,17 +1,14 @@
 ---
 layout: about
-title: about
+title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: left
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -22,7 +19,7 @@ Assistant Professor
 College of Computer Science and Software Engineering  
 Yuehai Campus, Shenzhen University, Shenzhen 518060, China  
 Room 618-1, Zhiteng Building  
-[Email](qihuazhou@szu.edu.cn) | [Google Scholar](https://scholar.google.com/citations?user=vsD8e8QAAAAJ) | [GitHub](https://github.com/kimihe)
+qihuazhou(AT)szu.edu.cn | [Google Scholar](https://scholar.google.com/citations?user=vsD8e8QAAAAJ) | [GitHub](https://github.com/kimihe)
 
 Qihua Zhou is currently an Assistant Professor ("Hundred Talents Program") at Shenzhen Univeristy. He is also a co-founder of [Hong Kong DrBody Corporation Limited](https://zerodrbody.wixsite.com/drbody).
 
