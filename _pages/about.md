@@ -22,8 +22,17 @@ Room 618-1, Zhiteng Building
 [qihuazhou(AT)szu.edu.cn](https://qihuazhou.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=vsD8e8QAAAAJ) | [GitHub](https://github.com/kimihe)
 
 
-# 
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
+# About Me
 ---
+
 Qihua Zhou is an Assistant Professor in the College of Computer Science and Software Engineering at Shenzhen University. He is also a co-founder of [Hong Kong DrBody Corporation Limited](https://zerodrbody.wixsite.com/drbody).
 
 He received his Ph.D. degree in the Department of Computing, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/web/en/home/index.html), advised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo).
