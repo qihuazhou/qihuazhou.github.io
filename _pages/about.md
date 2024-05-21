@@ -27,6 +27,7 @@ Office: Room 618-1, Zhiteng Building, Yuehai Campus, SZU
 
 > <span style="font-size:11pt; color:#A8A8A8"> *"I never think of the future. It comes soon enough." — Albert Einstein*</span>  
 
+&nbsp;  
 
 # Research Interests
 ---
@@ -46,7 +47,7 @@ His research outcomes cover a broad spectrum, ranging from *theory* to *implemen
 * Make sure you read this [document]() before sending emails.
 * If you are at SZU, you can come to my office (Room 618-1) to talk with me.
 
-<br/><br/>
+&nbsp;  
 
 # Recent News
 ---
@@ -56,7 +57,7 @@ His research outcomes cover a broad spectrum, ranging from *theory* to *implemen
 * 33  
 * 44 
 
-<br/><br/>
+&nbsp;  
 
 # About Me
 ---
