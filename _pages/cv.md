@@ -1,7 +1,7 @@
 ---
 layout: cv
-permalink: /about/
-title: About Me
+permalink: /bio/
+title: Bio
 nav: true
 nav_order: 1
 cv_pdf: example_pdf.pdf
