@@ -11,7 +11,7 @@ description: # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text:
 keywords: Edge AI Systems, Neural-enhanced Video Streaming, Tiny Machine learning, On-device Learning # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: prof_pic.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: prof_pic_square.jpg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://qihuazhou.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root

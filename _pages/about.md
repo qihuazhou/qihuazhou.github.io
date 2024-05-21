@@ -5,7 +5,7 @@ permalink: /
 subtitle: 
 
 profile:
-  align: up
+  align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: 
@@ -40,7 +40,7 @@ Before that, he received a Ph.D. degree in the College of Automation and College
 
 &nbsp;  
 
-# Research Interests
+## Research Interests
 ---
 
 He aims at developing highly efficient AI/ML systems that empower ubiquitous intelligent services, particularly in cloud-edge environments, to enrich human life in diverse aspects.
@@ -53,7 +53,7 @@ His research outcomes cover a broad spectrum, ranging from *theory* to *implemen
 
 &nbsp;
 
-# To Prospective Students
+### To Prospective Students
 ---
 
 * Make sure you read this [document]() before sending emails.
@@ -61,7 +61,7 @@ His research outcomes cover a broad spectrum, ranging from *theory* to *implemen
 
 &nbsp;  
 
-# Recent News
+### Recent News
 ---
 
 * 11  
