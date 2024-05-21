@@ -43,21 +43,21 @@ Before that, he received a Ph.D. degree in the College of Automation and College
 ## Research Interests
 ---
 
-He aims at developing highly efficient AI/ML systems that empower ubiquitous intelligent services, particularly in cloud-edge environments, to enrich human life in diverse aspects.
+He aims at developing edge-native AI/ML systems that empower ubiquitous intelligent services, particularly in resource-constrained environments, to enrich human life in diverse aspects.
 
-His research interests lie at the intersection of **Edge Intelligence**, **Nueral Multimedia Streaming**, **Tiny Machine Learning (TinyML)**, and **Distributed Processing**. 
-He recognize the importance of optimizing the *completed life-cycle* of intelligent tasks, from data sensing to knowledge-aware analytics and cross-client interaction. 
+His research interests lie at the intersection of **Edge Artifical Intelligence**, **Nueral Multimedia Streaming**, **Tiny Machine Learning**, and **Distributed Machine Learning**. 
+He recognize the importance of optimizing the *completed life-cycle* of intelligent tasks, from data sensing to knowledge-aware analytics and cross-entity interaction. 
 Embracing this closed-loop design philosophy, his vision is to extend the boundary of modern learning paradigms and present new research prospects for enhancing system-level performance.
 
-His research outcomes cover a broad spectrum, ranging from *theory* to *implementation*, with a primary focus on three key aspects.
+<!-- His research outcomes cover a broad spectrum, ranging from *theory* to *implementation*, with a primary focus on three key aspects. -->
 
 &nbsp;
 
 ### To Prospective Students
 ---
 
-* Make sure you read this [document]() before sending emails.
-* If you are at SZU, you can come to my office (Room 618-1) to talk with me.
+* Make sure you read this [document]() before sending emails. Students with a background in neural video codecs, model compression/quantization, distributed machine learning are preferred.
+* If you are a SZU student, I will respond to all your emails (100% guaranteed). Alternatively, you can come to my office (Room 618-1) for a personal discussion.
 
 &nbsp;  
 
