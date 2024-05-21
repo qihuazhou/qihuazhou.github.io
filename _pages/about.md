@@ -25,7 +25,7 @@ Office: Room 618-1, Zhiteng Building, Yuehai Campus, SZU
 [qihuazhou(AT)szu.edu.cn](https://qihuazhou.github.io/) <code>&#124;</code> [Google Scholar](https://scholar.google.com/citations?user=vsD8e8QAAAAJ) <code>&#124;</code> [GitHub](https://github.com/kimihe)
 
 
-> <span style="font-size:11pt; color:grey"> *"I never think of the future. It comes soon enough." — Albert Einstein*</span>
+> <span style="font-size:11pt; color:#A8A8A8"> *"I never think of the future. It comes soon enough." — Albert Einstein*</span>  
 
 
 # Research Interests
@@ -39,7 +39,6 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 
 His research outcomes cover a broad spectrum, ranging from \textit{theory} to \textit{implementation}, with a primary focus on three key aspects.
 
-<br/><br/>
 
 # To Prospective Students
 ---
