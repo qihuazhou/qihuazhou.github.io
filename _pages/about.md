@@ -25,10 +25,9 @@ Office: Room 618-1, Zhiteng Building, Yuehai Campus, SZU
 [qihuazhou(AT)szu.edu.cn](https://qihuazhou.github.io/) | [Google Scholar](https://scholar.google.com/citations?user=vsD8e8QAAAAJ) | [GitHub](https://github.com/kimihe)
 
 
-> "I never think of the future. It comes soon enough." — Albert Einstein
+> <span style="font-size:10pt; color:grey"> *"I never think of the future. It comes soon enough." — Albert Einstein*</span>
 
-<br></br>
-<br></br>
+<br/><br/>
 
 # Research Interests
 ---
