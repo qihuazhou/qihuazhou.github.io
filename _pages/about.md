@@ -40,6 +40,7 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 
 His research outcomes cover a broad spectrum, ranging from *theory* to *implementation*, with a primary focus on three key aspects.
 
+&nbsp;
 
 # To Prospective Students
 ---
@@ -55,9 +56,9 @@ His research outcomes cover a broad spectrum, ranging from *theory* to *implemen
 * 11  
 * 22  
 * 33  
-* 44 
+* 44
 
-&nbsp;  
+&nbsp;
 
 # About Me
 ---
