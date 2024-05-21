@@ -37,7 +37,7 @@ His research interests lie at the intersection of **Edge Intelligence**, **Nuera
 He recognize the importance of optimizing the \textit{entire life-cycle} of intelligent tasks, from data sensing to knowledge-aware analytics and cross-client interaction. 
 Embracing this closed-loop design philosophy, his vision is to extend the boundary of modern learning paradigms and present new research prospects for enhancing system-level performance.
 
-His research outcomes cover a broad spectrum, ranging from \textit{theory} to \textit{implementation}, with a primary focus on three key aspects.
+His research outcomes cover a broad spectrum, ranging from **theory** to **implementation**, with a primary focus on three key aspects.
 
 
 # To Prospective Students
