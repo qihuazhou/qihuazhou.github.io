@@ -2,14 +2,14 @@
 layout: page
 permalink: /services/
 title: Services
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 4
 ---
 
 I have served as the reviewer in the following conferences and journals.
 
-### Conferences:
+**Conferences:**  
 * Annual Conference on Neural Information Processing Systems (NeurIPS) [2022, 2023, 2024]  
 * International Conference on Learning Representations (ICLR) [2023, 2024]  
 * International Conference on Machine Learning (ICML) [2022, 2023, 2024]  
@@ -21,7 +21,7 @@ I have served as the reviewer in the following conferences and journals.
 * International Joint Conference on Artificial Intelligence (IJCAI) [2024]  
 * IEEE International Conference on Pervasive Computing and Communications (PerCom) [2022]  
 
-### Journals:
+**Journals:**  
 * IEEE Transactions on Mobile Computing (TMC) [2023, 2024]  
 * IEEE Internet of Things Journal (IoTJ) [2022, 2023, 2024]  
 * ACM Computing Surveys (CSUR) [2024]  

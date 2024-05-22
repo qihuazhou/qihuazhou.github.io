@@ -2,7 +2,7 @@
 layout: page
 permalink: /bio/
 title: Bio
-description: Short bio of Dr. Qihua Zhou.
+description:
 nav: true
 nav_order: 1
 ---
@@ -20,7 +20,7 @@ He has long been engaged in the research fields of Edge AI, Tiny Machine Learnin
 
 He serves as a reviewer for multiple important international conferences (NeurIPS, ICLR, ICML, AAAI, ICCV, CVPR, ECCV, IJCAI, INFOCOM, etc) and journals (IEEE TMC, IEEE IoTJ, ACM CSUR, IEEE TIT, etc).
 
-
+&nbsp;
 
 
 ### Education
@@ -38,6 +38,7 @@ He serves as a reviewer for multiple important international conferences (NeurIP
     B.Eng. @ Department of Computer Science  
     Major: Information Security
 
+&nbsp;
 
 
 ### Awards and Honors
@@ -50,13 +51,15 @@ He serves as a reviewer for multiple important international conferences (NeurIP
 * Second prize of China Medical Device Innovation Competition (中国医疗器械创新创业大赛二等奖), 2021  
     Collaborator, "Dr. Body无辐射不良体态检测及管理系统"
 
+&nbsp;
 
-### Service
+
+### Services
 ---
 
 I have served as a reviewer in the following conferences and journals.
 
-### Conferences:
+**Conferences:**  
 * Annual Conference on Neural Information Processing Systems (NeurIPS) [2022, 2023, 2024]  
 * International Conference on Learning Representations (ICLR) [2023, 2024]  
 * International Conference on Machine Learning (ICML) [2022, 2023, 2024]  
@@ -68,12 +71,14 @@ I have served as a reviewer in the following conferences and journals.
 * International Joint Conference on Artificial Intelligence (IJCAI) [2024]  
 * IEEE International Conference on Pervasive Computing and Communications (PerCom) [2022]  
 
-### Journals:
+**Journals:** 
 * IEEE Transactions on Mobile Computing (TMC) [2023, 2024]  
 * IEEE Internet of Things Journal (IoTJ) [2022, 2023, 2024]  
 * ACM Computing Surveys (CSUR) [2024]  
 * IEEE Transactions on Information Theory (TIT) [2024]  
 * Journal of Parallel and Distributed Computing (JPDC) [2022]  
+
+&nbsp;
 
 
 ### Teaching
@@ -98,11 +103,15 @@ I have served as a teaching assistant at PolyU and HKUST in the following course
 * **COMP1001**: Computational Thinking and Problem Solving (Fall 2019)  
     Undergraduate Course, The Hong Kong Polytechnic University
 
+&nbsp;
+
 
 ### Patents
 ---
 * Song Guo, <u>Qihua Zhou</u>, and Yufeng Zhan, "Distributed deep learning method, device, parameter server and working node" (分布式深度学习方法、装置、参数服务器及工作节点), China Patent, No. 201911352575.9.  
 * Song Guo, <u>Qihua Zhou</u>, and Xin Xie, "A method and system for training models based on data quantization and hardware acceleration" (一种训练基于数据量化与硬件加速的模型的方法及系统), China Patent, No. 202110211440.1.
+
+&nbsp;
 
 
 ### Internship
