@@ -10,22 +10,25 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: 
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 
 Assistant Professor  
 College of Computer Science and Software Engineering  
-Shenzhen University, Shenzhen 518060, China  
+Shenzhen University  
+Shenzhen 518060, Guangdong, P.R.China  
 
 Office: Room 618-1, Zhiteng Building, Yuehai Campus, SZU  
 
-[qihuazhou(AT)szu.edu.cn](https://qihuazhou.github.io/) <code>&#124;</code> [Google Scholar](https://scholar.google.com/citations?user=vsD8e8QAAAAJ) <code>&#124;</code> [GitHub](https://github.com/kimihe)
+I was fortunate to have been supervised by Professor [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) with [Pervasive Intelligence Lab](https://hkpeilab.github.io/) at [PolyU](https://www.polyu.edu.hk/web/en/home/index.html).
+
+[qihuazhou[at]szu.edu.cn](https://qihuazhou.github.io/) <code>&#124;</code> [Google Scholar](https://scholar.google.com/citations?user=vsD8e8QAAAAJ) <code>&#124;</code> [GitHub](https://github.com/kimihe)
 
 
-> <span style="font-size:11pt; color:#A8A8A8"> *"I never think of the future. It comes soon enough." — Albert Einstein*</span>  
+<!-- > <span style="font-size:11pt; color:#A8A8A8"> *"I never think of the future. It comes soon enough." — Albert Einstein*</span>   -->
 
 
 &nbsp;
@@ -45,7 +48,7 @@ Before that, he received a Ph.D. degree in the College of Automation and College
 
 He aims at developing edge-native AI/ML systems that empower ubiquitous intelligent services, particularly in resource-constrained environments, to enrich human life in diverse aspects.
 
-His research interests lie at the intersection of **Edge Artifical Intelligence**, **Nueral Multimedia Streaming**, **Tiny Machine Learning**, and **Distributed Machine Learning**. 
+His research interests lie at the intersection of **Edge Artificial Intelligence**, **Neural Multimedia Streaming**, **Tiny Machine Learning**, and **Distributed Machine Learning**. 
 He recognize the importance of optimizing the *completed life-cycle* of intelligent tasks, from data sensing to knowledge-aware analytics and cross-entity interaction. 
 Embracing this closed-loop design philosophy, his vision is to extend the boundary of modern learning paradigms and present new research prospects for enhancing system-level performance.
 
@@ -64,10 +67,9 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 ### Recent News
 ---
 
-* 11  
-* 22  
-* 33  
-* 44
+* 04/2024, `ParsNets` has been accepted by IJCAI-24. Congrats to all co-authors!  
+* 01/2024, `PASS` has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Congrats to all co-authors! 
+* 12/2023, `Chiron` has been accepted by IEEE Transactions on Mobile Computing (TMC). Congrats to all co-authors!  
 
 
 
