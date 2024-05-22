@@ -10,7 +10,7 @@ nav_order: 1
 
 
 
-Dr. Qihua Zhou is an Assistant Professor in the College of Computer Science and Software Engineering at Shenzhen University. He is also a co-founder of [Hong Kong DrBody Corporation Limited](https://zerodrbody.wixsite.com/drbody).
+Dr. Qihua Zhou is an Assistant Professor in the [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/pages/university/index) at [Shenzhen University](https://www.szu.edu.cn/). He is also a co-founder of [Hong Kong DrBody Corporation Limited](https://zerodrbody.wixsite.com/drbody).
 
 He received his Ph.D. degree in the Department of Computing, [Hong Kong Polytechnic University](https://www.polyu.edu.hk/web/en/home/index.html), advised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo).
 Before that, he received a Ph.D. degree in the College of Automation and College of Artificial Intelligence, [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), advised by [Prof. Yanfei Sun](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52D3F2DCFE050007F01006EFE) and [Prof. Kun Wang](https://sme.fudan.edu.cn/60/2f/c31133a352303/page.htm).
@@ -27,7 +27,7 @@ He serves as a reviewer for multiple important international conferences (NeurIP
 ---
 
 * The Hong Kong Polytechnic University, Hong Kong, 2019 – 2023  
-    Ph.D. @ Department of Computing  
+    Ph.D. @ Department of Computing, [Pervasive Intelligence Lab](https://hkpeilab.github.io/)  
     Supervisor: [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo)
 
 * Nanjing University of Posts and Telecommunications, China, 2015 – 2019  
