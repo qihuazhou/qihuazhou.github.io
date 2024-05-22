@@ -1,6 +1,176 @@
 ---
 ---
 
+@article{DBLP:journals/pami/ZhouGPLGXZ24,
+  selected={true},
+  abbr={TPAMI},
+  bibtex_show={true},
+  pdf={https://ieeexplore.ieee.org/document/10381763},
+  abstract={Real-time video perception tasks are often challenging on resource-constrained edge devices due to the issues of accuracy drop and hardware overhead, where saving computations is the key to performance improvement. Existing methods either rely on domain-specific neural chips or priorly searched models, which require specialized optimization according to different task properties. These limitations motivate us to design a general and task-independent methodology, called Patch Automatic Skip Scheme (PASS), which supports diverse video perception settings by decoupling acceleration and tasks. The gist is to capture inter-frame correlations and skip redundant computations at patch level, where the patch is a non-overlapping square block in visual. PASS equips each convolution layer with a learnable gate to selectively determine which patches could be safely skipped without degrading model accuracy. Specifically, we are the first to construct a self-supervisory procedure for gate optimization, which learns to extract contrastive representations from frame sequences. The pre-trained gates can serve as plug-and-play modules to implement patch-skippable neural backbones, and automatically generate proper skip strategy to accelerate different video-based downstream tasks, e.g., outperforming state-of-the-art MobileHumanPose in 3D pose estimation and FairMOT in multiple object tracking, by up to 9.43× and 12.19× speedups, respectively, on NVIDIA Jetson Nano devices.},
+  author       = {Qihua Zhou and
+                  Song Guo and
+                  Jun Pan and
+                  Jiacheng Liang and
+                  Jingcai Guo and
+                  Zhenda Xu and
+                  Jingren Zhou},
+  title        = {{PASS:} Patch Automatic Skip Scheme for Efficient On-Device Video
+                  Perception},
+  journal      = {{IEEE} Trans. Pattern Anal. Mach. Intell.},
+  volume       = {46},
+  number       = {5},
+  pages        = {3938--3954},
+  year         = {2024},
+  url          = {https://doi.org/10.1109/TPAMI.2024.3350380},
+  doi          = {10.1109/TPAMI.2024.3350380},
+  timestamp    = {Sat, 04 May 2024 10:55:20 +0200},
+  biburl       = {https://dblp.org/rec/journals/pami/ZhouGPLGXZ24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/aaai/Zhou0PLXZ23,
+  selected={false},
+  abbr={AAAI},
+  bibtex_show={true},
+  pdf={https://ojs.aaai.org/index.php/AAAI/article/view/25491},
+  abstract={Real-time video perception tasks are often challenging over the resource-constrained edge devices due to the concerns of accuracy drop and hardware overhead, where saving computations is the key to performance improvement. Existing methods either rely on domain-specific neural chips or priorly searched models, which require specialized optimization according to different task properties. In this work, we propose a general and task-independent Patch Automatic Skip Scheme (PASS), a novel end-to-end learning pipeline to support diverse video perception settings by decoupling acceleration and tasks. The gist is to capture the temporal similarity across video frames and skip the redundant computations at patch level, where patch is a non-overlapping square block in visual. PASS equips each convolution layer with a learnable gate to selectively determine which patches could be safely skipped without degrading model accuracy. As to each layer, a desired gate needs to make flexible skip decisions based on intermediate features without any annotations, which cannot be achieved by conventional supervised learning paradigm. To address this challenge, we are the first to construct a tough self-supervisory procedure for optimizing these gates, which learns to extract contrastive representation, i.e., distinguishing similarity and difference, from frame sequence. These high-capacity gates can serve as a plug-and-play module for convolutional neural network (CNN) backbones to implement patch-skippable architectures, and automatically generate proper skip strategy to accelerate different video-based downstream tasks, e.g., outperforming the state-of-the-art MobileHumanPose (MHP) in 3D pose estimation and FairMOT in multiple object tracking, by up to 9.43 times and 12.19 times speedups, respectively. By directly processing the raw data of frames, PASS can generalize to real-time video streams on commodity edge devices, e.g., NVIDIA Jetson Nano and mobile phones, and achieves efficient performance in realistic deployment.},
+  author       = {Qihua Zhou and
+                  Song Guo and
+                  Jun Pan and
+                  Jiacheng Liang and
+                  Zhenda Xu and
+                  Jingren Zhou},
+  editor       = {Brian Williams and
+                  Yiling Chen and
+                  Jennifer Neville},
+  title        = {{PASS:} Patch Automatic Skip Scheme for Efficient Real-Time Video
+                  Perception on Edge Devices},
+  booktitle    = {Proceedings of the {AAAI} Conference on Artificial Intelligence (AAAI)},
+  pages        = {3787--3795},
+  publisher    = {{AAAI} Press},
+  year         = {2023},
+  month        = {February},
+  location     = {Washington, DC, USA},
+  url          = {https://doi.org/10.1609/aaai.v37i3.25491},
+  doi          = {10.1609/AAAI.V37I3.25491},
+  timestamp    = {Tue, 07 May 2024 20:01:46 +0200},
+  biburl       = {https://dblp.org/rec/conf/aaai/Zhou0PLXZ23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/nips/Zhou0LZZGXLQ22,
+  selected={True},
+  abbr={NeurIPS},
+  bibtex_show={true},
+  pdf={https://proceedings.neurips.cc/paper_files/paper/2022/file/2616697705f72f16a8eac9c295d37d94-Supplemental-Conference.pdf},
+  slides={https://nips.cc/media/neurips-2022/Slides/54328_aZV9Kj5.pdf},
+  abstract={It witnesses that the collaborative learning (CL) systems often face the performance bottleneck of limited bandwidth, where multiple low-end devices continuously generate data and transmit intermediate features to the cloud for incremental training. To this end, improving the communication efficiency by reducing traffic size is one of the most crucial issues for realistic deployment. Existing systems mostly compress features at pixel level and ignore the characteristics of feature structure, which could be further exploited for more efficient compression. In this paper, we take new insights into implementing scalable CL systems through a hierarchical compression on features, termed Stripe-wise Group Quantization (SGQ). Different from previous unstructured quantization methods, SGQ captures both channel and spatial similarity in pixels, and simultaneously encodes features in these two levels to gain a much higher compression ratio. In particular, we refactor feature structure based on inter-channel similarity and bound the gradient deviation caused by quantization, in forward and backward passes, respectively. Such a double-stage pipeline makes SGQ hold a sublinear convergence order as the vanilla SGD-based optimization. Extensive experiments show that SGQ achieves a higher traffic reduction ratio by up to 15.97 times and provides 9.22 times image processing speedup over the uniform quantized training, while preserving adequate model accuracy as FP32 does, even using 4-bit quantization. This verifies that SGQ can be applied to a wide spectrum of edge intelligence applications.},
+  author       = {Qihua Zhou and
+                  Song Guo and
+                  Yi Liu and
+                  Jie Zhang and
+                  Jiewei Zhang and
+                  Tao Guo and
+                  Zhenda Xu and
+                  Xun Liu and
+                  Zhihao Qu},
+  editor       = {Sanmi Koyejo and
+                  S. Mohamed and
+                  A. Agarwal and
+                  Danielle Belgrave and
+                  K. Cho and
+                  A. Oh},
+  title        = {Hierarchical Channel-spatial Encoding for Communication-efficient
+                  Collaborative Learning},
+  booktitle    = {Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS)},
+  year         = {2022},
+  month        = {November},
+  location     = {New Orleans, USA},
+  url          = {http://papers.nips.cc/paper\_files/paper/2022/hash/2616697705f72f16a8eac9c295d37d94-Abstract-Conference.html},
+  timestamp    = {Mon, 08 Jan 2024 16:31:37 +0100},
+  biburl       = {https://dblp.org/rec/conf/nips/Zhou0LZZGXLQ22.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/usenix/Zhou0QGXZGLZ21,
+  selected={True},
+  abbr={ATC},
+  bibtex_show={true},
+  pdf={https://www.usenix.org/system/files/atc21-zhou.pdf},
+  slides={https://www.usenix.org/system/files/atc21_slides_zhou.pdf},
+  code={https://github.com/kimihe/Octo},
+  video={https://www.youtube.com/watch?v=TG3BO8muC4w&feature=emb_imp_woyt},
+  abstract={Real-time video perception tasks are often challenging over the resource-constrained edge devices due to the concerns of accuracy drop and hardware overhead, where saving computations is the key to performance improvement. Existing methods either rely on domain-specific neural chips or priorly searched models, which require specialized optimization according to different task properties. In this work, we propose a general and task-independent Patch Automatic Skip Scheme (PASS), a novel end-to-end learning pipeline to support diverse video perception settings by decoupling acceleration and tasks. The gist is to capture the temporal similarity across video frames and skip the redundant computations at patch level, where patch is a non-overlapping square block in visual. PASS equips each convolution layer with a learnable gate to selectively determine which patches could be safely skipped without degrading model accuracy. As to each layer, a desired gate needs to make flexible skip decisions based on intermediate features without any annotations, which cannot be achieved by conventional supervised learning paradigm. To address this challenge, we are the first to construct a tough self-supervisory procedure for optimizing these gates, which learns to extract contrastive representation, i.e., distinguishing similarity and difference, from frame sequence. These high-capacity gates can serve as a plug-and-play module for convolutional neural network (CNN) backbones to implement patch-skippable architectures, and automatically generate proper skip strategy to accelerate different video-based downstream tasks, e.g., outperforming the state-of-the-art MobileHumanPose (MHP) in 3D pose estimation and FairMOT in multiple object tracking, by up to 9.43 times and 12.19 times speedups, respectively. By directly processing the raw data of frames, PASS can generalize to real-time video streams on commodity edge devices, e.g., NVIDIA Jetson Nano and mobile phones, and achieves efficient performance in realistic deployment.},
+  author       = {Qihua Zhou and
+                  Song Guo and
+                  Zhihao Qu and
+                  Jingcai Guo and
+                  Zhenda Xu and
+                  Jiewei Zhang and
+                  Tao Guo and
+                  Boyuan Luo and
+                  Jingren Zhou},
+  editor       = {Irina Calciu and
+                  Geoff Kuenning},
+  title        = {Octo: {INT8} Training with Loss-aware Compensation and Backward Quantization
+                  for Tiny On-device Learning},
+  booktitle    = {Proceedings of the {USENIX} Annual Technical Conference (ATC)},
+  pages        = {177--191},
+  publisher    = {{USENIX} Association},
+  year         = {2021},
+  month        = {July},
+  location     = {Virtual Event},
+  url          = {https://www.usenix.org/conference/atc21/presentation/zhou-qihua},
+  timestamp    = {Thu, 12 Aug 2021 18:08:26 +0200},
+  biburl       = {https://dblp.org/rec/conf/usenix/Zhou0QGXZGLZ21.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+@inproceedings{DBLP:conf/ipps/ZhouLWZ0G18,
+  selected={False},
+  abbr={IPDPS},
+  bibtex_show={true},
+  pdf={https://ieeexplore.ieee.org/document/8425204},
+  code={https://github.com/kimihe/Swallow},
+  abstract={Big data analytics in datacenters often involves scheduling of data-parallel job, which are bottlenecked by limited bandwidth of datacenter networks. To alleviate the shortage of bandwidth, some existing work has proposed traffic compression to reduce the amount of data transmitted over the network. However, their proposed traffic compression works in a coarse-grained manner at job level, leaving a large optimization space unexplored for further performance improvement. In this paper, we propose a flow-level traffic compression and scheduling system, called Swallow, to accelerate data-intensive applications. Specifically, we target on coflows, which is an elegant abstraction of parallel flows generated by big data jobs. With the objective of minimizing coflow completion time (CCT), we propose a heuristic algorithm called Fastest-Volume-Disposal-First (FVDV) and implement Swallow based on Spark. The results of both trace-driven simulations and real experiments show the superiority of our system, over existing algorithms. Swallow can reduce CCT and job completion time (JCT) by up to 1.47 × and 1.66 × on average, respectively, over the SEBF in Varys, one of the most efficient coflow scheduling algorithms so far. Moreover, with coflow compression, Swallow reduces data traffic by up to 48.41% on average.},
+  author       = {Qihua Zhou and
+                  Peng Li and
+                  Kun Wang and
+                  Deze Zeng and
+                  Song Guo and
+                  Minyi Guo},
+  title        = {Swallow: Joint Online Scheduling and Coflow Compression in Datacenter
+                  Networks},
+  booktitle    = {Proceedings of the {IEEE} International Parallel and Distributed Processing Symposium (IPDPS)},
+  pages        = {505--514},
+  publisher    = {{IEEE} Computer Society},
+  year         = {2018},
+  month        = {May},
+  location     = {Vancouver, Canada},
+  url          = {https://doi.org/10.1109/IPDPS.2018.00060},
+  doi          = {10.1109/IPDPS.2018.00060},
+  timestamp    = {Fri, 24 Mar 2023 00:02:03 +0100},
+  biburl       = {https://dblp.org/rec/conf/ipps/ZhouLWZ0G18.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 @string{aps = {American Physical Society,}}
 
 @book{einstein1920relativity,
