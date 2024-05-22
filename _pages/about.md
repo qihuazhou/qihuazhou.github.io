@@ -59,7 +59,7 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 ### To Prospective Students
 ---
 
-* Make sure you read this [document]() before sending emails. Students with a background in neural video codecs, model compression/quantization, distributed machine learning are preferred.
+* Make sure you read this [document](https://www.discoverphds.com/advice/applying/cv-for-phd-application) before sending emails. Students with a background in neural video codecs, model compression/quantization, distributed machine learning are preferred.
 * If you are a SZU student, I will respond to all your emails (100% guaranteed). Alternatively, you can come to my office (Room 618-1) for a personal discussion.
 
 &nbsp;  
@@ -67,9 +67,9 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 ### Recent News
 ---
 
-* 04/2024, [ParsNets](https://arxiv.org/pdf/2312.09709) has been accepted by IJCAI-24. Congrats to all co-authors!  
-* 01/2024, [PASS](https://ieeexplore.ieee.org/document/10381763) has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Congrats to all co-authors! 
-* 01/2024, [Chiron](https://ieeexplore.ieee.org/document/10382540) has been accepted by IEEE Transactions on Mobile Computing (TMC). Congrats to all co-authors!  
+* 04/2024, [ParsNets](https://arxiv.org/pdf/2312.09709) has been accepted by IJCAI'24. Congrats to all co-authors!  
+* 01/2024, [PASS](https://ieeexplore.ieee.org/document/10381763) has been accepted by IEEE TPAMI. Congrats to all co-authors! 
+* 01/2024, [Chiron](https://ieeexplore.ieee.org/document/10382540) has been accepted by IEEE TMC. Congrats to all co-authors!  
 
 
 
