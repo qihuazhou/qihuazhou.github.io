@@ -33,7 +33,7 @@ I was fortunate to have been supervised by Professor [Song Guo](https://cse.hkus
 
 &nbsp;
 
-# About
+### About
 ---
 
 Dr. Qihua Zhou is an Assistant Professor in the College of Computer Science and Software Engineering at Shenzhen University. He is also a co-founder of [Hong Kong DrBody Corporation Limited](https://zerodrbody.wixsite.com/drbody).
@@ -43,7 +43,7 @@ Before that, he received a Ph.D. degree in the College of Automation and College
 
 &nbsp;  
 
-## Research Interests
+### Research Interests
 ---
 
 He aims at developing edge-native AI/ML systems that empower ubiquitous intelligent services, particularly in resource-constrained environments, to enrich human life in diverse aspects.
@@ -67,9 +67,9 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 ### Recent News
 ---
 
-* 04/2024, `ParsNets` has been accepted by IJCAI-24. Congrats to all co-authors!  
-* 01/2024, `PASS` has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Congrats to all co-authors! 
-* 12/2023, `Chiron` has been accepted by IEEE Transactions on Mobile Computing (TMC). Congrats to all co-authors!  
+* 04/2024, [ParsNets](https://arxiv.org/pdf/2312.09709) has been accepted by IJCAI-24. Congrats to all co-authors!  
+* 01/2024, [PASS](https://ieeexplore.ieee.org/document/10381763) has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), Congrats to all co-authors! 
+* 01/2024, [Chiron](https://ieeexplore.ieee.org/document/10382540) has been accepted by IEEE Transactions on Mobile Computing (TMC). Congrats to all co-authors!  
 
 
 
