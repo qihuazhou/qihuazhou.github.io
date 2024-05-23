@@ -64,7 +64,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 
 acm_id: # your dl.acm.org/profile/id
-blogger_url: http://qihuazhou.com # your blogger URL
+blogger_url: # your blogger URL
 bluesky_url: # your bluesky URL
 dblp_url: https://dblp.uni-trier.de/pid/213/0984.html # your DBLP profile url
 discord_id: # your discord id (18-digit unique numerical identifier)
@@ -98,7 +98,7 @@ wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.
 whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: # work page URL
+work_url: http://qihuazhou.com # work page URL
 x_username: # your X handle
 youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
