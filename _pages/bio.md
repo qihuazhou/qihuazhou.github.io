@@ -40,7 +40,7 @@ He serves as a reviewer for multiple important international conferences (NeurIP
 &nbsp;
 
 
-### Awards and Honors
+### Awards
 ---
 
 * Spotlight on Transactions, 2021  
@@ -104,6 +104,11 @@ I have served as a teaching assistant at PolyU and HKUST in the following course
 
 &nbsp;
 
+
+### Monograph
+---
+
+* Song Guo, <u>Qihua Zhou</u>, "Machine Learning on Commodity Tiny Devices: Theory and Practice", Taylor & Francis Books, Routledge, CRC Press, 2022.
 
 ### Patents
 ---

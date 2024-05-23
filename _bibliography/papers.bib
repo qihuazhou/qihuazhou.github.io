@@ -22,12 +22,101 @@
   number       = {5},
   pages        = {3938--3954},
   year         = {2024},
+  month        = {January},
   url          = {https://doi.org/10.1109/TPAMI.2024.3350380},
   doi          = {10.1109/TPAMI.2024.3350380},
   timestamp    = {Sat, 04 May 2024 10:55:20 +0200},
   biburl       = {https://dblp.org/rec/journals/pami/ZhouGPLGXZ24.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
+
+
+
+@ARTICLE{10382540,
+  selected={false},
+  abbr={IEEE TC},
+  preview={tc_tmc24},
+  bibtex_show={true},
+  pdf={https://ieeexplore.ieee.org/document/10382540},
+  abstract={Over the past few years, edge learning has achieved significant success in mobile edge networks. Few works have designed incentive mechanism that motivates edge nodes to participate in edge learning. However, most existing works only consider myopic optimization and assume that all edge nodes are honest, which lacks long-term sustainability and the final performance assurance. In this paper, we propose Chiron, an incentive-driven Byzantine-resistant long-term mechanism based on hierarchical reinforcement learning (HRL). First, our optimization goal includes both learning-algorithm performance criteria (i.e., global accuracy) and systematical criteria (i.e., resource consumption), which aim to improve the edge learning performance under a given resource budget. Second, we propose a three-layer HRL architecture to handle long-term optimization, short-term optimization, and byzantine resistance, respectively. Finally, we conduct experiments on various edge learning tasks to demonstrate the superiority of the proposed approach. Specifically, our system can successfully exclude malicious nodes and lazy nodes out of the edge learning participation and achieves 14.96% higher accuracy and 12.66% higher total utility than the state-of-the-art methods under the same budget limit.},
+  author={Liu, Yi and Guo, Song and Zhan, Yufeng and Wu, Leijie and Hong, Zicong and Zhou, Qihua},
+  journal={IEEE Transactions on Mobile Computing}, 
+  title={Chiron: A Robustness-Aware Incentive Scheme for Edge Learning Via Hierarchical Reinforcement Learning}, 
+  year={2024},
+  month = {January},
+  volume={1},
+  number={1},
+  pages={1-17},
+  keywords={Training;Servers;Optimization;Deep learning;Computational modeling;Reinforcement learning;Data models;Deep reinforcement learning;edge learning;incentive mechanism;mobile edge computing},
+  doi={10.1109/TMC.2024.3350654}}
+
+
+
+@inproceedings{DBLP:conf/aaai/ZhouGGLZWX24,
+  selected={false},
+  abbr={AAAI},
+  preview={nevs_aaai24},
+  bibtex_show={true},
+  pdf={https://ojs.aaai.org/index.php/AAAI/article/view/29657},
+  abstract={The explosive growth of video traffic on today's Internet promotes the rise of Neural-enhanced Video Streaming (NeVS), which effectively improves the rate-distortion trade-off by employing a cheap neural super-resolution model for quality enhancement on the receiver side. Missing by existing work, we reveal that the NeVS pipeline may suffer from a practical threat, where the crucial codec component (i.e., encoder for compression and decoder for restoration) can trigger adversarial attacks in a man-in-the-middle manner to significantly destroy video recovery performance and finally incurs the malfunction of downstream video perception tasks. In this paper, we are the first attempt to inspect the vulnerability of NeVS and discover a novel adversarial attack, called codec hijacking, where the injected invisible perturbation conspires with the malicious encoding matrix by reorganizing the spatial-temporal bit allocation within the bitstream size budget. Such a zero-day vulnerability makes our attack hard to defend because there is no visual distortion on the recovered videos until the attack happens. More seriously, this attack can be extended to diverse enhancement models, thus exposing a wide range of video perception tasks under threat. Evaluation based on state-of-the-art video codec benchmark illustrates that our attack significantly degrades the recovery performance of NeVS over previous attack methods. The damaged video quality finally leads to obvious malfunction of downstream tasks with over 75% success rate. We hope to arouse public attention on codec hijacking and its defence.},
+  author       = {Qihua Zhou and
+                  Jingcai Guo and
+                  Song Guo and
+                  Ruibin Li and
+                  Jie Zhang and
+                  Bingjie Wang and
+                  Zhenda Xu},
+  editor       = {Michael J. Wooldridge and
+                  Jennifer G. Dy and
+                  Sriraam Natarajan},
+  title        = {On the Robustness of Neural-Enhanced Video Streaming against Adversarial
+                  Attacks},
+  booktitle    = {Proceedings of the {AAAI} Conference on Artificial Intelligence (AAAI)},
+  pages        = {17123--17131},
+  publisher    = {{AAAI} Press},
+  year         = {2024},
+  month        = {February},
+  location     = { Vancouver, Canada},
+  url          = {https://doi.org/10.1609/aaai.v38i15.29657},
+  doi          = {10.1609/AAAI.V38I15.29657},
+  timestamp    = {Tue, 02 Apr 2024 16:32:09 +0200},
+  biburl       = {https://dblp.org/rec/conf/aaai/ZhouGGLZWX24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+@article{DBLP:journals/tmc/GuoGWXZZCZ24,
+  selected={false},
+  abbr={IEEE TMC},
+  preview={tree_tmc23},
+  bibtex_show={true},
+  pdf={https://ieeexplore.ieee.org/abstract/document/10076834},
+  abstract={Iteration based collaborative learning (CL) paradigms, such as federated learning (FL) and split learning (SL), faces challenges in training neural models over the rapidly growing yet resource-constrained edge devices. Such devices have difficulty in accommodating a full-size large model for FL or affording an excessive waiting time for the mandatory synchronization step in SL. To deal with such challenge, we propose a novel CL framework which adopts an tree-aggregation structure with an adaptive partition and ensemble strategy to achieve optimal synchronization and fast convergence at scale. To find the optimal split point for heterogeneous clients, we also design a novel partitioning algorithm by minimizing the idleness during communication and achieving the optimal synchronization between clients. In addition, a parallelism paradigm is proposed to unleash the potential of optimum synchronization between the clients and server to boost the distributed training process without losing model accuracy for edge devices. Furthermore, we theoretically prove that our framework can achieve better convergence rate than state-of-the-art CL paradigms. We conduct extensive experiments and show that our framework is 4.6× in training speed as compared with the traditional methods, without compromising training accuracy.},
+  author       = {Tao Guo and
+                  Song Guo and
+                  Feijie Wu and
+                  Wenchao Xu and
+                  Jiewei Zhang and
+                  Qihua Zhou and
+                  Quan Chen and
+                  Weihua Zhuang},
+  title        = {Tree Learning: Towards Promoting Coordination in Scalable Multi-Client
+                  Training Acceleration},
+  journal      = {{IEEE} Trans. Mob. Comput.},
+  volume       = {23},
+  number       = {3},
+  pages        = {2382--2394},
+  year         = {2024},
+  month        = {March},
+  url          = {https://doi.org/10.1109/TMC.2023.3259007},
+  doi          = {10.1109/TMC.2023.3259007},
+  timestamp    = {Thu, 29 Feb 2024 20:54:12 +0100},
+  biburl       = {https://dblp.org/rec/journals/tmc/GuoGWXZZCZ24.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+
 
 @inproceedings{DBLP:conf/aaai/Zhou0PLXZ23,
   selected={false},
@@ -59,6 +148,40 @@
   biburl       = {https://dblp.org/rec/conf/aaai/Zhou0PLXZ23.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
+
+
+
+@inproceedings{DBLP:conf/aaai/GuoGZLLH23,
+  selected={false},
+  abbr={AAAI},
+  preview={zsl_aaai23},
+  bibtex_show={true},
+  pdf={https://ojs.aaai.org/index.php/AAAI/article/view/25942},
+  abstract={Zero-shot learning (ZSL) is an extreme case of transfer learning that aims to recognize samples (e.g., images) of unseen classes relying on a train-set covering only seen classes and a set of auxiliary knowledge (e.g., semantic descriptors). Existing methods usually resort to constructing a visual-to-semantics mapping based on features extracted from each whole sample. However, since the visual and semantic spaces are inherently independent and may exist in different manifolds, these methods may easily suffer from the domain bias problem due to the knowledge transfer from seen to unseen classes. Unlike existing works, this paper investigates the fine-grained ZSL from a novel perspective of sample-level graph. Specifically, we decompose an input into several fine-grained elements and construct a graph structure per sample to measure and utilize element-granularity relations within each sample. Taking advantage of recently developed graph neural networks (GNNs), we formulate the ZSL problem to a graph-to-semantics mapping task, which can better exploit element-semantics correlation and local sub-structural information in samples. Experimental results on the widely used benchmark datasets demonstrate that the proposed method can mitigate the domain bias problem and achieve competitive performance against other representative methods.},
+  author       = {Jingcai Guo and
+                  Song Guo and
+                  Qihua Zhou and
+                  Ziming Liu and
+                  Xiaocheng Lu and
+                  Fushuo Huo},
+  editor       = {Brian Williams and
+                  Yiling Chen and
+                  Jennifer Neville},
+  title        = {Graph Knows Unknowns: Reformulate Zero-Shot Learning as Sample-Level
+                  Graph Recognition},
+  booktitle    = {Proceedings of the {AAAI} Conference on Artificial Intelligence (AAAI)},
+  pages        = {7775--7783},
+  publisher    = {{AAAI} Press},
+  year         = {2023},
+  month        = {February},
+  location     = {Washington, DC, USA},
+  url          = {https://doi.org/10.1609/aaai.v37i6.25942},
+  doi          = {10.1609/AAAI.V37I6.25942},
+  timestamp    = {Mon, 04 Sep 2023 16:50:24 +0200},
+  biburl       = {https://dblp.org/rec/conf/aaai/GuoGZLLH23.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
 
 @inproceedings{DBLP:conf/nips/Zhou0LZZGXLQ22,
   selected={True},
@@ -95,6 +218,7 @@
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 
+
 @inproceedings{DBLP:conf/usenix/Zhou0QGXZGLZ21,
   selected={True},
   abbr={USENIX ATC},
@@ -104,7 +228,7 @@
   slides={https://www.usenix.org/system/files/atc21_slides_zhou.pdf},
   code={https://github.com/kimihe/Octo},
   video={https://www.youtube.com/watch?v=TG3BO8muC4w&feature=emb_imp_woyt},
-  abstract={Real-time video perception tasks are often challenging over the resource-constrained edge devices due to the concerns of accuracy drop and hardware overhead, where saving computations is the key to performance improvement. Existing methods either rely on domain-specific neural chips or priorly searched models, which require specialized optimization according to different task properties. In this work, we propose a general and task-independent Patch Automatic Skip Scheme (PASS), a novel end-to-end learning pipeline to support diverse video perception settings by decoupling acceleration and tasks. The gist is to capture the temporal similarity across video frames and skip the redundant computations at patch level, where patch is a non-overlapping square block in visual. PASS equips each convolution layer with a learnable gate to selectively determine which patches could be safely skipped without degrading model accuracy. As to each layer, a desired gate needs to make flexible skip decisions based on intermediate features without any annotations, which cannot be achieved by conventional supervised learning paradigm. To address this challenge, we are the first to construct a tough self-supervisory procedure for optimizing these gates, which learns to extract contrastive representation, i.e., distinguishing similarity and difference, from frame sequence. These high-capacity gates can serve as a plug-and-play module for convolutional neural network (CNN) backbones to implement patch-skippable architectures, and automatically generate proper skip strategy to accelerate different video-based downstream tasks, e.g., outperforming the state-of-the-art MobileHumanPose (MHP) in 3D pose estimation and FairMOT in multiple object tracking, by up to 9.43 times and 12.19 times speedups, respectively. By directly processing the raw data of frames, PASS can generalize to real-time video streams on commodity edge devices, e.g., NVIDIA Jetson Nano and mobile phones, and achieves efficient performance in realistic deployment.},
+  abstract={On-device learning is an emerging technique to pave the last mile of enabling edge intelligence, which eliminates the limitations of conventional in-cloud computing where dozens of computational capacities and memories are needed. A high-performance on-device learning system requires breaking the constraints of limited resources and alleviating computational overhead. In this paper, we show that employing the 8-bit fixed-point (INT8) quantization in both forward and backward passes over a deep model is a promising way to enable tiny on-device learning in practice. The key to an efficient quantization-aware training method is to exploit the hardware-level enabled acceleration while preserving the training quality in each layer. However, off-the-shelf quantization methods cannot handle the on-device learning paradigm of fixed-point processing. To overcome these challenges, we propose a novel INT8 training method, which optimizes the computation of forward and backward passes via the delicately designed Loss-aware Compensation (LAC) and Parameterized Range Clipping (PRC), respectively. Specifically, we build a new network component, the compensation layer, to automatically counteract the quantization error of tensor arithmetic. We implement our method in Octo, a lightweight cross-platform system for tiny on-device learning. Evaluation on commercial AI chips shows that Octo holds higher training efficiency over state-of-the-art quantization training methods, while achieving adequate processing speedup and memory reduction over the full-precision training.},
   author       = {Qihua Zhou and
                   Song Guo and
                   Zhihao Qu and
@@ -129,6 +253,7 @@
   biburl       = {https://dblp.org/rec/conf/usenix/Zhou0QGXZGLZ21.bib},
   bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
+
 
 @inproceedings{DBLP:conf/ipps/ZhouLWZ0G18,
   selected={False},
