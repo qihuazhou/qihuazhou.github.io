@@ -110,6 +110,9 @@ I have served as a teaching assistant at PolyU and HKUST in the following course
 
 * Song Guo, <u>Qihua Zhou</u>, "Machine Learning on Commodity Tiny Devices: Theory and Practice", Taylor & Francis Books, Routledge, CRC Press, 2022.
 
+&nbsp;
+
+
 ### Patents
 ---
 * Song Guo, <u>Qihua Zhou</u>, and Yufeng Zhan, "Distributed deep learning method, device, parameter server and working node" (分布式深度学习方法、装置、参数服务器及工作节点), China Patent, No. 201911352575.9.  
