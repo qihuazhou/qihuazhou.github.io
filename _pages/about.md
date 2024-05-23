@@ -23,7 +23,7 @@ Shenzhen 518060, Guangdong, P.R.China
 
 Office: Room 618-1, Zhiteng Building, Yuehai Campus, SZU  
 
-I was fortunate to have been supervised by Professor [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) with [Pervasive Intelligence Lab](https://hkpeilab.github.io/) at [PolyU](https://www.polyu.edu.hk/web/en/home/index.html).
+I was fortunate to have been supervised by Professor [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) with [Pervasive Intelligence Lab](https://hkpeilab.github.io/) at [PolyU](https://www.polyu.edu.hk/).
 
 [qihuazhou[at]szu.edu.cn](https://qihuazhou.github.io/) <code>&#124;</code> [Google Scholar](https://scholar.google.com/citations?user=vsD8e8QAAAAJ) <code>&#124;</code> [GitHub](https://github.com/kimihe)
 
@@ -38,7 +38,7 @@ I was fortunate to have been supervised by Professor [Song Guo](https://cse.hkus
 
 Dr. Qihua Zhou is an Assistant Professor in the [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/pages/university/index) at [Shenzhen University](https://www.szu.edu.cn/). He is also a co-founder of [Hong Kong DrBody Corporation Limited](https://zerodrbody.wixsite.com/drbody).
 
-He received his Ph.D. degree in the Department of Computing, [Hong Kong Polytechnic University](https://www.polyu.edu.hk/web/en/home/index.html), advised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo).
+He received his Ph.D. degree in the Department of Computing, [Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo).
 Before that, he received a Ph.D. degree in the College of Automation and College of Artificial Intelligence, [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), advised by [Prof. Yanfei Sun](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52D3F2DCFE050007F01006EFE) and [Prof. Kun Wang](https://sme.fudan.edu.cn/60/2f/c31133a352303/page.htm).
 
 He aims at developing edge-native AI/ML systems that empower ubiquitous intelligent services, particularly in resource-constrained environments, to enrich human life in diverse aspects.
