@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Qihua Zhou (周祺华)
 middle_name: 
 last_name: 
-email: i-hua.zhou[at]connect.polyu.hk
+email: qi-hua.zhou[at]connect.polyu.hk
 description: # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text:
 keywords: Edge AI Systems, Neural-enhanced Video Streaming, Tiny Machine learning, On-device Learning # add your own keywords or leave empty
