@@ -44,6 +44,8 @@ Before that, he received a Ph.D. degree in the College of Automation and College
 
 He aims at developing edge-native AI/ML systems that empower ubiquitous intelligent services, particularly in resource-constrained environments, to enrich human life in diverse aspects.
 
+He is a co-founder of [Hong Kong DrBody Corporation Limited](https://zerodrbody.wixsite.com/drbody).
+
 
 
 &nbsp;  
