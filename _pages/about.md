@@ -30,7 +30,7 @@ var _hmt = _hmt || [];
 
 
 
-Assistant Professor 
+Assistant Professor  
 [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/pages/user/index?id=1309)  
 [Shenzhen University](https://www.szu.edu.cn/)  
 Shenzhen 518060, Guangdong, P.R.China  
