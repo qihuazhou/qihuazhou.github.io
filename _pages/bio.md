@@ -10,7 +10,7 @@ nav_order: 1
 
 
 
-<!-- Dr. Qihua Zhou is an Assistant Professor in the [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/pages/university/index) at [Shenzhen University](https://www.szu.edu.cn/). He is also a co-founder of [Hong Kong DrBody Corporation Limited](https://zerodrbody.wixsite.com/drbody). -->
+Dr. Qihua Zhou is an Assistant Professor with the [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/pages/user/index?id=1309) at [Shenzhen University](https://www.szu.edu.cn/). He is also a co-founder of [Hong Kong DrBody Corporation Limited](https://zerodrbody.wixsite.com/drbody).
 
 He received his Ph.D. degree in the Department of Computing, [Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo).
 Before that, he received a Ph.D. degree in the College of Automation and College of Artificial Intelligence, [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), advised by [Prof. Yanfei Sun](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52D3F2DCFE050007F01006EFE).
@@ -57,9 +57,10 @@ He serves as a reviewer for multiple important international conferences (NeurIP
 ### Services
 ---
 
-I have served as a reviewer in the following conferences and journals.
+**Conference Program Committee:**  
+* AAAI Conference on Artificial Intelligence (AAAI) [2025]  
 
-**Conferences:**  
+**Conference Reviewer:**  
 * Annual Conference on Neural Information Processing Systems (NeurIPS) [2022, 2023, 2024]  
 * International Conference on Learning Representations (ICLR) [2023, 2024]  
 * International Conference on Machine Learning (ICML) [2022, 2023, 2024]  
@@ -71,12 +72,12 @@ I have served as a reviewer in the following conferences and journals.
 * International Joint Conference on Artificial Intelligence (IJCAI) [2024]  
 * IEEE International Conference on Pervasive Computing and Communications (PerCom) [2022]  
 
-**Journals:** 
+**Journal Reviewer:**  
 * IEEE Transactions on Mobile Computing (TMC) [2023, 2024]  
 * IEEE Internet of Things Journal (IoTJ) [2022, 2023, 2024]  
 * ACM Computing Surveys (CSUR) [2024]  
 * IEEE Transactions on Information Theory (TIT) [2024]  
-* Journal of Parallel and Distributed Computing (JPDC) [2022]  
+* Journal of Parallel and Distributed Computing (JPDC) [2022]   
 
 &nbsp;
 

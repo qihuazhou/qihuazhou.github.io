@@ -30,16 +30,16 @@ var _hmt = _hmt || [];
 
 
 
-<!-- Assistant Professor  
-College of Computer Science and Software Engineering  
-Shenzhen University  
+Assistant Professor 
+[College of Computer Science and Software Engineering](https://csse.szu.edu.cn/pages/user/index?id=1309)  
+[Shenzhen University](https://www.szu.edu.cn/)  
 Shenzhen 518060, Guangdong, P.R.China  
 
-Office: Room 618-1, Zhiteng Building, Yuehai Campus, SZU -->  
+Office: Room 618-1, Zhiteng Building, Yuehai Campus, SZU
 
 I was fortunate to have been supervised by Professor [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) with [Pervasive Intelligence Lab](https://hkpeilab.github.io/) at [PolyU](https://www.polyu.edu.hk/).
 
-[qi-hua.zhou[at]connect.polyu.hk](https://qihuazhou.github.io/) <code>&#124;</code> [Google Scholar](https://scholar.google.com/citations?user=vsD8e8QAAAAJ) <code>&#124;</code> [GitHub](https://github.com/kimihe)
+[qihuazhou[at]szu.edu.cn](mailto:qihuazhou[at]szu.edu.cn) <code>&#124;</code> [Google Scholar](https://scholar.google.com/citations?user=vsD8e8QAAAAJ) <code>&#124;</code> [GitHub](https://github.com/kimihe)
 
 
 <!-- > <span style="font-size:11pt; color:#A8A8A8"> *"I never think of the future. It comes soon enough." — Albert Einstein*</span>   -->
@@ -51,7 +51,7 @@ I was fortunate to have been supervised by Professor [Song Guo](https://cse.hkus
 ### About
 ---
 
-<!-- Dr. Qihua Zhou is an Assistant Professor in the [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/pages/university/index) at [Shenzhen University](https://www.szu.edu.cn/). He is also a co-founder of [Hong Kong DrBody Corporation Limited](https://zerodrbody.wixsite.com/drbody). -->
+Dr. Qihua Zhou is an Assistant Professor with the [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/pages/user/index?id=1309) at [Shenzhen University](https://www.szu.edu.cn/). He is also a co-founder of [Hong Kong DrBody Corporation Limited](https://zerodrbody.wixsite.com/drbody).
 
 He received his Ph.D. degree in the Department of Computing, [Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo).
 Before that, he received a Ph.D. degree in the College of Automation and College of Artificial Intelligence, [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), advised by [Prof. Yanfei Sun](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52D3F2DCFE050007F01006EFE). 
@@ -77,13 +77,14 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 
 
 
-<!-- &nbsp;
+&nbsp;
 
 ### To Prospective Students
 ---
 
-* Make sure you read this [document](https://www.discoverphds.com/advice/applying/cv-for-phd-application) before sending emails. Students with a background in neural video codecs, model compression/quantization, distributed machine learning are preferred.
-* If you are a SZU student, I will respond to all your emails (100% guaranteed). Alternatively, you can come to my office (Room 618-1) for a personal discussion. -->
+* Students with a background in neural video codecs, model compression/quantization, distributed machine learning are preferred.
+* If you are a SZU student, I will respond to all your emails (100% guaranteed). Alternatively, you can come to my office (Room 618-1) for a personal discussion.
+* **For PhD applicants**, please contact me at least half a year (one semester) prior to your application. It is recommended that you read these [CV Writing Tips](https://www.discoverphds.com/advice/applying/cv-for-phd-application), [SZU PhD Admission](https://yz.szu.edu.cn/info/1011/12703.htm) before sending the email.
 
 
 
