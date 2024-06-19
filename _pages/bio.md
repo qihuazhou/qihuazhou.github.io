@@ -32,7 +32,7 @@ He serves as a reviewer for multiple important international conferences (NeurIP
 
 * Nanjing University of Posts and Telecommunications, China, 2015 – 2019  
     Ph.D. @ College of Automation and College of Artificial Intelligence  
-    Supervisor: [Prof. Yanfei Sun](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52D3F2DCFE050007F01006EFE) and [Prof. Kun Wang](https://sme.fudan.edu.cn/60/2f/c31133a352303/page.htm)
+    Supervisor: [Prof. Yanfei Sun](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52D3F2DCFE050007F01006EFE).
 
 * Nanjing University of Posts and Telecommunications, China, 2011 – 2015  
     B.Eng. @ Department of Computer Science  
