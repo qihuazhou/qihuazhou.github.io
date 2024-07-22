@@ -37,7 +37,7 @@ Shenzhen 518060, Guangdong, P.R.China
 
 Office: Room 618-1, Zhiteng Building, Yuehai Campus, SZU
 
-I was fortunate to have been supervised by Professor [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) with [Pervasive Intelligence Lab](https://hkpeilab.github.io/) at [PolyU](https://www.polyu.edu.hk/).
+I was fortunate to have been supervised by Professor [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) with [Pervasive Intelligence Lab](https://hkpeilab.github.io/) at [PolyU](https://www.polyu.edu.hk/) and [HKUST](https://hkust.edu.hk/).
 
 [qihuazhou[at]szu.edu.cn](mailto:qihuazhou[at]szu.edu.cn) <code>&#124;</code> [Google Scholar](https://scholar.google.com/citations?user=vsD8e8QAAAAJ) <code>&#124;</code> [GitHub](https://github.com/kimihe)
 
