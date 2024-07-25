@@ -82,8 +82,8 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 ### To Prospective Students
 ---
 
-* Students with a background in neural video codecs, model compression/quantization, distributed machine learning are preferred.
-* If you are a SZU student, I will respond to all your emails (100% guaranteed). Alternatively, you can come to my office (Room 618-1) for a personal discussion.
+* Students with a background in large language/generative models, neural video codecs, model compression/quantization, distributed machine learning are preferred.
+* If you are SZU students, I will respond to all your emails (100% guaranteed). Alternatively, you can come to my office (Room 618-1) for a personal discussion.
 * **For PhD applicants**, please contact me at least half a year (one semester) prior to your application. It is recommended that you read these documents ([CV Writing Tips](https://www.discoverphds.com/advice/applying/cv-for-phd-application), [SZU PhD Admission](https://yz.szu.edu.cn/info/1011/12703.htm)) before sending emails.
 
 
@@ -94,7 +94,7 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 ### Recent News
 ---
 
-* 07/2024: **[Paper]** [FreePIH](https://arxiv.org/pdf/2311.14926) has been accepted by [ACM Multimedia'24](https://2024.acmmm.org/). Congrats to all co-authors!  
+* 07/2024: **[Paper]** [FreePIH](https://openreview.net/pdf?id=de7GoqU3Uv) has been accepted by [ACM Multimedia'24](https://2024.acmmm.org/). Congrats to all co-authors!  
 * 06/2024: **[Service]** I will serve on the Program Committee for AAAI'25. Please consider to submit!  
 * 04/2024: **[Paper]** [ParsNets](https://arxiv.org/pdf/2312.09709) has been accepted by [IJCAI'24](https://ijcai24.org/). Congrats to all co-authors!  
 * 01/2024: **[Paper]** [PASS](https://ieeexplore.ieee.org/document/10381763) has been accepted by [IEEE TPAMI'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34). Congrats to all co-authors!  
