@@ -95,7 +95,7 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 ---
 
 * 07/2024: **[Paper]** [FreePIH](https://openreview.net/pdf?id=de7GoqU3Uv) has been accepted by [ACM Multimedia'24, Oral](https://2024.acmmm.org/). Congrats to all co-authors!  
-* 06/2024: **[Service]** I will serve on the Program Committee for AAAI'25. Please consider to submit!  
+* 06/2024: **[Service]** I will serve on the Program Committee for [AAAI'25](https://aaai.org/conference/aaai/aaai-25/). Please consider to submit!  
 * 04/2024: **[Paper]** [ParsNets](https://arxiv.org/pdf/2312.09709) has been accepted by [IJCAI'24](https://ijcai24.org/). Congrats to all co-authors!  
 * 01/2024: **[Paper]** [PASS](https://ieeexplore.ieee.org/document/10381763) has been accepted by [IEEE TPAMI'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34). Congrats to all co-authors!  
 * 01/2024: **[Paper]** [Chiron](https://ieeexplore.ieee.org/document/10382540) has been accepted by [IEEE TMC'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755). Congrats to all co-authors!  
