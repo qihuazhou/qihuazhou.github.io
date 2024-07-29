@@ -73,6 +73,7 @@ He serves as a reviewer for multiple important international conferences (NeurIP
 * IEEE International Conference on Pervasive Computing and Communications (PerCom) [2022]  
 
 **Journal Reviewer:**  
+* IEEE Transactions on Parallel and Distributed Systems (TPDS) [2024]  
 * IEEE Transactions on Mobile Computing (TMC) [2023, 2024]  
 * IEEE Internet of Things Journal (IoTJ) [2022, 2023, 2024]  
 * ACM Computing Surveys (CSUR) [2024]  
