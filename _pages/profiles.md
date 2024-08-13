@@ -17,7 +17,7 @@ I am fortunate to work with these talented students:
 
 * [Chi'ang Zhang](https://zhangchiang.github.io/)  
     * 06/2024 – : M.Eng. Student in Computer Science, Shenzhen University   
-    * 09/2019 – 05/2023: B.Eng. in Computer Science, Huazhong University Of Science and Technology  
+    * 09/2019 – 05/2023: B.Eng. in Computer Science, Huazhong University of Science and Technology  
 
 
 ### Alumni
