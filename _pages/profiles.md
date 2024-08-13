@@ -12,12 +12,12 @@ I am fortunate to work with these talented students:
 ### Current Students
 
 * [Tao Lv](https://lvtao65535.github.io/)  
-    * 06/2024 – : B.Eng. in Computer Science, Shenzhen University  
-    * 09/2020 – 06/2024: B.Eng. in Computer Science, South China University of Technology  
+    * 06/2024 – : M.Eng. Student in Computer Science, Shenzhen University  
+    * 09/2020 – 05/2024: B.Eng. in Computer Science, South China University of Technology  
 
 * [Chi'ang Zhang](https://zhangchiang.github.io/)  
-    * 06/2024 – : B.Eng. in Computer Science, Shenzhen University   
-    * 09/2019 – 06/2023: B.Eng. in Computer Science, Huazhong University Of Science and Technology  
+    * 06/2024 – : M.Eng. Student in Computer Science, Shenzhen University   
+    * 09/2019 – 05/2023: B.Eng. in Computer Science, Huazhong University Of Science and Technology  
 
 
 ### Alumni
@@ -31,7 +31,7 @@ I am fortunate to work with these talented students:
     * 11/2023 – 08/2024: Co-authored Submission to [MobiCom'25, Summer], Research: Lightweight MoE on Edge Devices  
 
 * Ruibin Li  
-    * Co-authored [AAAI’24, ACM MM'24], Current: Ph.D. Student@Hong Kong Polytechnic University (HKPFS Awarded)  
+    * Co-authored [AAAI’24, ACM MM'24, IJCAI'24], Current: Ph.D. Student@Hong Kong Polytechnic University (HKPFS Awarded)  
 
 * Jun Pan  
     * Co-authored [AAAI’23, TPAMI’24], Current: NLP Researcher@Lenovo Group  
