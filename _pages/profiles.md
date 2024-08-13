@@ -33,11 +33,11 @@ I am fortunate to work with these talented students:
 * Ruibin Li  
     * Co-authored [AAAI’24, ACM MM'24, IJCAI'24], Current: Ph.D. Student@Hong Kong Polytechnic University (HKPFS Awarded)  
 
+* [Liacheng Liang](https://jiacheng.netlify.app/)  
+    * Co-authored [AAAI’23, TPAMI’24], Current: Ph.D. Student@Stony Brook University  
+
 * Jun Pan  
     * Co-authored [AAAI’23, TPAMI’24], Current: NLP Researcher@Lenovo Group  
-
-* Jiacheng Liang  
-    * Co-authored [AAAI’23, TPAMI’24], Current: Ph.D. Student@Stony Brook University   
 
 * Boyuan Luo   
     * Co-authored [USENIX ATC’21, IoTJ’21, IoTJ'22], Current: Software Engineer@Xiaomi Corporation  
