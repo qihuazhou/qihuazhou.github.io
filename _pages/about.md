@@ -68,7 +68,7 @@ He aims at developing edge-native AI/ML systems that empower ubiquitous intellig
 ### Research Interests
 ---
 
-His research interests lie at the intersection of **Edge AI Systems**, **Diffusion Generative and MoE Models**, **Tiny Machine Learning**, **Distributed Machine Learning**, and **Neural Multimedia Streaming**. 
+His research interests lie at the intersection of **Edge AI Systems**, **Foundation Model Serving**, **Tiny Machine Learning**, **Distributed Machine Learning**, and **Neural Multimedia Streaming**. 
 He recognize the importance of optimizing the *completed life-cycle* of intelligent tasks, from data sensing to knowledge-aware analytics and cross-entity interaction. 
 Embracing this closed-loop design philosophy, his vision is to extend the boundary of modern learning paradigms and present new research prospects for enhancing system-level performance.
 
