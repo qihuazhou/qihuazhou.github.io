@@ -68,7 +68,7 @@ He aims at developing edge-native AI/ML systems that empower ubiquitous intellig
 ### Research Interests
 ---
 
-His research interests lie at the intersection of **Edge Artificial Intelligence**, **Neural Multimedia Streaming**, **Tiny Machine Learning**, and **Distributed Machine Learning**. 
+His research interests lie at the intersection of **Edge AI Systems**, **Diffusion Generative and MoE Models**, **Tiny Machine Learning**, **Distributed Machine Learning**, and **Neural Multimedia Streaming**. 
 He recognize the importance of optimizing the *completed life-cycle* of intelligent tasks, from data sensing to knowledge-aware analytics and cross-entity interaction. 
 Embracing this closed-loop design philosophy, his vision is to extend the boundary of modern learning paradigms and present new research prospects for enhancing system-level performance.
 
@@ -94,6 +94,7 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 ### Recent News
 ---
 
+* 09/2024: **[Paper]** [pFedC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) has been accepted by [IEEE TMC'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).  
 * 07/2024: **[Paper]** [FreePIH](https://openreview.net/pdf?id=de7GoqU3Uv) has been accepted by [ACM Multimedia'24, Oral](https://2024.acmmm.org/).  
 * 06/2024: **[Service]** I will serve on the Program Committee for [AAAI'25](https://aaai.org/conference/aaai/aaai-25/).  
 * 04/2024: **[Paper]** [ParsNets](https://arxiv.org/pdf/2312.09709) has been accepted by [IJCAI'24](https://ijcai24.org/).  
