@@ -94,6 +94,7 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 ### Recent News
 ---
 
+* 09/2024: **[Paper]** [pNAS](https://xplorestaging.ieee.org/xpl/aboutJournal.jsp?punumber=12) has been accepted by [IEEE TC'24](https://xplorestaging.ieee.org/xpl/aboutJournal.jsp?punumber=12).  
 * 09/2024: **[Paper]** [pFedC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) has been accepted by [IEEE TMC'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).  
 * 07/2024: **[Paper]** [FreePIH](https://openreview.net/pdf?id=de7GoqU3Uv) has been accepted by [ACM Multimedia'24, Oral](https://2024.acmmm.org/).  
 * 06/2024: **[Service]** I will serve on the Program Committee for [AAAI'25](https://aaai.org/conference/aaai/aaai-25/).  
