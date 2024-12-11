@@ -94,10 +94,10 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 ### Recent News
 ---
 
-* 12/2024: **[Paper]** [D2MoE]() has been accepted by [ACM MobiCom'25 (CCF-A)](https://www.sigmobile.org/mobicom/2025/cfp.html).  
-* 12/2024: **[Paper]** [DeNC]() has been accepted by [AAAI'25 (CCF-A)](https://aaai.org/conference/aaai/aaai-25/).  
-* 12/2024: **[Paper]** [Mjölnir]() has been accepted by [AAAI'25 (CCF-A)](https://aaai.org/conference/aaai/aaai-25/).  
-* 12/2024: **[Paper]** [FedFoA]() has been accepted by [IEEE TNNLS'24 (JCR-Q1, CCF-B)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).  
+* 12/2024: **[Paper]** [D2MoE](https://www.sigmobile.org/mobicom/2025/cfp.html) has been accepted by [ACM MobiCom'25 (CCF-A)](https://www.sigmobile.org/mobicom/2025/cfp.html).  
+* 12/2024: **[Paper]** [DeNC](https://aaai.org/conference/aaai/aaai-25/) has been accepted by [AAAI'25 (CCF-A)](https://aaai.org/conference/aaai/aaai-25/).  
+* 12/2024: **[Paper]** [Mjölnir](https://aaai.org/conference/aaai/aaai-25/) has been accepted by [AAAI'25 (CCF-A)](https://aaai.org/conference/aaai/aaai-25/).  
+* 12/2024: **[Paper]** [FedFoA](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) has been accepted by [IEEE TNNLS'24 (JCR-Q1, CCF-B)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).  
 * 09/2024: **[Paper]** [pNAS](https://xplorestaging.ieee.org/xpl/aboutJournal.jsp?punumber=12) has been accepted by [IEEE TC'24](https://xplorestaging.ieee.org/xpl/aboutJournal.jsp?punumber=12).   
 * 09/2024: **[Paper]** [pFedC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) has been accepted by [IEEE TMC'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).  
 * 07/2024: **[Paper]** [FreePIH](https://openreview.net/pdf?id=de7GoqU3Uv) has been accepted by [ACM Multimedia'24, Oral](https://2024.acmmm.org/).   
