@@ -7,9 +7,6 @@ nav: true
 nav_order: 4
 ---
 
-### Conference Program Committee:  
-* AAAI Conference on Artificial Intelligence (AAAI) [2025]  
-
 ### Conference Reviewer:  
 * Annual Conference on Neural Information Processing Systems (NeurIPS) [2022-2024]  
 * International Conference on Learning Representations (ICLR) [2023-2025]  
@@ -26,6 +23,7 @@ nav_order: 4
 * IEEE Transactions on Parallel and Distributed Systems (TPDS) [2024]  
 * IEEE Transactions on Mobile Computing (TMC) [2023-2024]  
 * IEEE Internet of Things Journal (IoTJ) [2022-2024]  
+* IEEE Communications Magazine (COMMAG) [2024]  
 * ACM Computing Surveys (CSUR) [2024]  
 * IEEE Transactions on Information Theory (TIT) [2024]  
 * Journal of Parallel and Distributed Computing (JPDC) [2022]   

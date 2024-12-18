@@ -83,7 +83,7 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 ---
 
 * Students with a background in large language/generative models, neural video codecs, model compression/quantization, distributed machine learning are preferred.
-* If you are SZU students, I will respond to all your emails (100% guaranteed). Alternatively, you can come to my office (Room 618-1) for a personal discussion.
+* If you are SZU students, I will respond to all your emails (100% guaranteed). Alternatively, you can come to my office (Room 618-1) for in-person discussions.
 * **For PhD applicants**, please contact me at least half a year (one semester) prior to your application. It is recommended that you read these documents ([CV Writing Tips](https://www.discoverphds.com/advice/applying/cv-for-phd-application), [SZU PhD Admission](https://yz.szu.edu.cn/info/1011/12703.htm)) before sending emails.
 
 
