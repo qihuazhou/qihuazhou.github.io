@@ -26,11 +26,11 @@ I am fortunate to work with these talented students:
     * 09.2024 – : Ph.D. Student in Computer Science, Hong Kong University of Science and Technology  
     * 01/2023 – 08/24: Co-authored Submission to [MobiCom'25, Summer], Research: Diffusion-Enhanced Video Streaming  
   
-* Haodong Wang  
+* [Haodong Wang](https://hkpeilab.github.io/people/haodong-wang/)  
     * 09.2024 – : Ph.D. Student in Computer Science, Hong Kong University of Science and Technology  
     * 11/2023 – 08/2024: Co-authored Submission to [MobiCom'25, Summer], Research: Lightweight MoE on Edge Devices  
 
-* Ruibin Li  
+* [Ruibin Li](https://hkpeilab.github.io/people/ruibin-li/)  
     * Co-authored [AAAI’24, ACM MM'24, IJCAI'24], Current: Ph.D. Student@Hong Kong Polytechnic University (HKPFS Awarded)  
 
 * [Liacheng Liang](https://jiacheng.netlify.app/)  
