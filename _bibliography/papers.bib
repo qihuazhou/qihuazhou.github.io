@@ -2,6 +2,57 @@
 ---
 
 
+@ARTICLE{10713262,
+  selected={false},
+  abbr={IEEE TC'24},
+  preview={pas_tc24},
+  bibtex_show={true},
+  pdf={https://ieeexplore.ieee.org/document/10713262},
+  abstract={Personalized federated learning (pFL) is a promising approach to train customized models for multiple clients over heterogeneous data distributions. However, existing works on pFL often rely on the optimization of model parameters and ignore the personalization demand on neural network architecture, which can greatly affect the model performance in practice. Therefore, generating personalized models with different neural architectures for different clients is a key issue in implementing pFL in a heterogeneous environment. Motivated by Neural Architecture Search (NAS), a model architecture searching methodology, this paper aims to automate the model design in a collaborative manner while achieving good training performance for each client. Specifically, we reconstruct the centralized searching of NAS into the distributed scheme called Personalized Architecture Search (PAS), where differentiable architecture fine-tuning is achieved via gradient-descent optimization, thus making each client obtain the most appropriate model. Furthermore, to aggregate knowledge from heterogeneous neural architectures, a knowledge distillation-based training framework is proposed to achieve a good trade-off between generalization and personalization in federated learning. Extensive experiments demonstrate that our architecture-level personalization method achieves higher accuracy under the non-iid settings, while not aggravating model complexity over state-of-the-art benchmarks.},
+  author={Liu, Yi and Guo, Song and Zhang, Jie and Hong, Zicong and Zhan, Yufeng and Zhou, Qihua},
+  journal={IEEE Transactions on Computers}, 
+  title={Collaborative Neural Architecture Search for Personalized Federated Learning}, 
+  year={2025},
+  volume={74},
+  number={1},
+  pages={250-262},
+  keywords={Computer architecture;Training;Data models;Optimization;Federated learning;Computational modeling;Search problems;Neural networks;Complexity theory;Servers;Personalized federated learning;neural architecture search;knowledge distillation},
+  doi={10.1109/TC.2024.3477945}}
+
+
+
+
+@article{DBLP:journals/tmc/ZhangGMXZGHS25,
+  selected={false},
+  abbr={IEEE TMC'24},
+  preview={pfedc_tmc24},
+  bibtex_show={true},
+  pdf={https://ieeexplore.ieee.org/document/10689471},
+  abstract={Personalized federated learning (pFL) is to collaboratively train non-identical machine learning models for different clients to adapt to their heterogeneously distributed datasets. State-of-the-art pFL approaches pay much attention on exploiting clients’ inter-similarities to facilitate the collaborative learning process, meanwhile, can barely escape from the irrelevant knowledge pooling that is inevitable during the aggregation phase, and thus hindering the optimization convergence and degrading the personalization performance. To tackle such conflicts between facilitating collaboration and promoting personalization, we propose a novel pFL framework, dubbed pFedC, to first decompose the global aggregated knowledge into several compositional branches, and then selectively reassemble the relevant branches for supporting conflicts-aware collaboration among contradictory clients. Specifically, by reconstructing each local model into a shared feature extractor and multiple decomposed task-specific classifiers, the training on each client transforms into a mutually reinforced and relatively independent multi-task learning process, which provides a new perspective for pFL. Besides, we conduct a purified knowledge aggregation mechanism via quantifying the combination weights for each client to capture clients’ common prior, as well as mitigate potential conflicts from the divergent knowledge caused by the heterogeneous data. Extensive experiments over various models and datasets demonstrate the effectiveness and superior performance of the proposed algorithm.},
+  author       = {Jie Zhang and
+                  Song Guo and
+                  Xiaosong Ma and
+                  Wenchao Xu and
+                  Qihua Zhou and
+                  Jingcai Guo and
+                  Zicong Hong and
+                  Jun Shan},
+  title        = {Model Decomposition and Reassembly for Purified Knowledge Transfer
+                  in Personalized Federated Learning},
+  journal      = {{IEEE} Trans. Mob. Comput.},
+  volume       = {24},
+  number       = {1},
+  pages        = {379--393},
+  year         = {2025},
+  url          = {https://doi.org/10.1109/TMC.2024.3466227},
+  doi          = {10.1109/TMC.2024.3466227},
+  timestamp    = {Sun, 22 Dec 2024 15:49:03 +0100},
+  biburl       = {https://dblp.org/rec/journals/tmc/ZhangGMXZGHS25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
 @inproceedings{DBLP:journals/corr/abs-2311-14926,
   selected={false},
   abbr={ACM MM'24, Oral},
