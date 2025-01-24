@@ -11,7 +11,7 @@ I am fortunate to work with these talented people:
 
 ### Research Students
 
-* [Tao Lv](https://lvtao65535.github.io/)  
+* [Tao Lyu](https://lvtao65535.github.io/)  
     * 06/2024 – : M.Eng. Student in Computer Science, Shenzhen University   
     * 09/2020 – 05/2024: B.Eng. in Computer Science, South China University of Technology   
 
