@@ -23,13 +23,14 @@ I am fortunate to work with these talented people:
 ### Research Assistants & Visitors
 
 * Ziming Zhang  
-    12/2024 - : undergraduate in Mathematics, Harbin Institute of Technology   
+    * 12/2024 - : undergraduate in Mathematics, Harbin Institute of Technology   
 
 * Yongzhi She  
-    09/2024 - : undergraduate in Computer Science, Wuyi University   
+    * 09/2024 - : undergraduate in Computer Science, Wuyi University   
 
 * Xinzhe Wang  
-    07/2024 - : undergraduate in Computer Science, Guilin university of technology   
+    * Submission to [TMM'25], Research: Low-light Image Enhancement with Diffusion Models
+    * 07/2024 - : undergraduate in Computer Science, Guilin university of technology   
 
 
 ### Alumni
