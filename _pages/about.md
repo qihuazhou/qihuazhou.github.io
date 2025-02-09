@@ -89,6 +89,7 @@ Please fill out this [Online Form](https://wj.qq.com/s2/17904116/3f89/) and drop
 
 
 ###### **For Undergraduate Interns/Visiting Students:**  
+---
 
 You are always welcome! You will have the opportunity to get top-tier resources and work on pioneering projects, especially those in AI and LLM. We will help you explore the latest advancements and push the boundaries of what's possible. 
 
@@ -96,6 +97,7 @@ We are happy to recommended outstanding students to top technology companies or 
 
 
 ###### **For Master/PhD Applicants:**  
+---
 
 Please take a look at my research statement and come up with a research problem that you want to work on in the [Online Form](https://wj.qq.com/s2/17904116/3f89/). It is recommended that you read these documents ([CV Writing Tips](https://www.discoverphds.com/advice/applying/cv-for-phd-application), [SZU Master Admission](https://yz.szu.edu.cn/info/1006/12985.htm), [SZU PhD Admission](https://yz.szu.edu.cn/info/1011/12703.htm)) before sending emails.
 
@@ -108,6 +110,7 @@ It is **not** recommended to reach out to me if:
 
 
 **For Postdoc/RA Applicants:**
+---
 
 We always have Postdoc/RA openings on different kinds of projects, especially those collaborated with national/Guangdong key laboratories and leading technology companies in the Guangdong–Hong Kong–Macao Greater Bay Area. You will get paid competitively.
 
