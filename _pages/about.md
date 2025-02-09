@@ -89,6 +89,7 @@ Please fill out this [Online Form](https://wj.qq.com/s2/17904116/3f89/) and drop
 
 
 &nbsp;
+
 ###### **For Undergraduate Interns/Visiting Students:**   
 ---
 
@@ -98,6 +99,7 @@ We are happy to recommended outstanding students to top technology companies or 
 
 
 &nbsp;
+
 ###### **For Master/PhD Applicants:**   
 ---
 
@@ -109,7 +111,9 @@ It is **not** recommended to reach me if:
 
 
 &nbsp;
-###### **For Postdoc/RA Applicants:**
+
+###### **For Postdoc/RA Applicants:**  
+---
 
 We always have Postdoc/RA openings on different kinds of projects, especially those collaborated with national/Guangdong key laboratories and leading technology companies in the Guangdong–Hong Kong–Macao Greater Bay Area. You will get paid competitively.
 
