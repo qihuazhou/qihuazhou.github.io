@@ -51,7 +51,7 @@ I was fortunate to have been supervised by Professor [Song Guo](https://cse.hkus
 ### About
 ---
 
-Dr. Qihua Zhou is an Assistant Professor ("Hundred Talents Program") with the [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/pages/user/index?id=1309) at [Shenzhen University](https://www.szu.edu.cn/). He is a co-founder of [Hong Kong DrBody Corporation Limited](https://zerodrbody.wixsite.com/drbody).
+Dr. Qihua Zhou is an Assistant Professor ("Hundred Talents Program") with the [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/pages/user/index?id=1309) at [Shenzhen University](https://www.szu.edu.cn/). He is a co-founder of [Hong Kong DrBody Co., Limited](https://zerodrbody.wixsite.com/drbody).
 
 He received his Ph.D. degree in the Department of Computing, [Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) (now HKUST).
 Before that, he received a Ph.D. degree in the College of Automation and College of Artificial Intelligence, [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), advised by [Prof. Yanfei Sun](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52D3F2DCFE050007F01006EFE). 
@@ -68,7 +68,9 @@ He aims at developing edge-native AI/ML systems that empower ubiquitous intellig
 ### Research Interests
 ---
 
-His research interests lie at the intersection of **Edge AI Systems**, **Efficient MoE/LLM Serving**, **Diffusion Generative Models**, **Tiny/On-Device Machine Learning**, **Neural Video Codecs**, and **Distributed Processing**. He recognize the importance of optimizing the *completed life-cycle* of intelligent tasks, from data sensing to knowledge-aware analytics and cross-entity interaction. 
+His research interests lie at the intersection of **Edge AI Systems**, **Efficient MoE/LLM Serving**, **Diffusion Generative Models**, **Tiny/On-Device Machine Learning**, **Neural Video Codecs**, and **Distributed Processing**.  
+
+He recognize the importance of optimizing the *completed life-cycle* of intelligent tasks, from data sensing to knowledge-aware analytics and cross-entity interaction. 
 Embracing this closed-loop design philosophy, his vision is to extend the boundary of modern learning paradigms and present new research prospects for enhancing system-level performance.
 
 <!-- His research outcomes cover a broad spectrum, ranging from *theory* to *implementation*, with a primary focus on three key aspects. -->
