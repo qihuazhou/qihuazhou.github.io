@@ -85,7 +85,7 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 
 We are looking for strongly motivated Master/PhD students, Research Assistants/Associates, and Postdoctoral Fellows. Undergraduate interns and visiting students (onsite/remote) are also welcome! If you are SZU students, I will respond to all your emails (100% guaranteed) and you can also come to my office (Room 618-1) to talk with me.
 
-Please fill out this <u>**[Online Form](https://wj.qq.com/s2/17904116/3f89/)**</u> and drop me an email if you are interested. 
+Please fill out this [<u>**Online Form**</u>](https://wj.qq.com/s2/17904116/3f89/)  and drop me an email if you are interested. 
 
 
 &nbsp;
@@ -105,7 +105,7 @@ We are happy to recommended outstanding students to top technology companies or 
 
 ---
 
-Please take a look at my research statement and come up with a research problem that you want to work on in the <u>**[Online Form](https://wj.qq.com/s2/17904116/3f89/)**</u>. It is recommended that you read these documents ([CV Writing Tips](https://www.discoverphds.com/advice/applying/cv-for-phd-application), [SZU Master Admission](https://yz.szu.edu.cn/info/1006/12985.htm), [SZU PhD Admission](https://yz.szu.edu.cn/info/1011/12703.htm)) before sending emails.
+Please take a look at my research statement and come up with a research problem that you want to work on in the [<u>**Online Form**</u>](https://wj.qq.com/s2/17904116/3f89/). It is recommended that you read these documents ([CV Writing Tips](https://www.discoverphds.com/advice/applying/cv-for-phd-application), [SZU Master Admission](https://yz.szu.edu.cn/info/1006/12985.htm), [SZU PhD Admission](https://yz.szu.edu.cn/info/1011/12703.htm)) before sending emails.
 
 It is ***not*** recommended to reach me if:  
 * you have no prior experiences on debugging projects with over 500 lines of codes – you will suffer a lot if you do not have this experience.  
