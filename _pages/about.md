@@ -94,9 +94,10 @@ Please fill out this [<u>Online Form</u>](https://wj.qq.com/s2/17904116/3f89/)  
 
 ---
 
-You are always welcome! You will have the opportunity to get top-tier resources and work on pioneering projects, especially those in AI and LLM. We will help you explore the latest advancements and push the boundaries of what's possible. 
+You are always welcome! You will have the opportunity to get top-tier resources and work on pioneering projects, especially those in AI and LLM. 
+We suppose you are keen on pursuing academic/research training and we will help you explore the latest advancements and push the boundaries of what's possible. 
 
-We are happy to recommended outstanding students to top technology companies or overseas prestigious universities for further studies.
+We are happy to recommend outstanding students to top (overseas) universities for further studies.
 
 
 &nbsp;
@@ -108,8 +109,8 @@ We are happy to recommended outstanding students to top technology companies or 
 Please take a look at my research statement and come up with a research problem that you want to work on in the [<u>Online Form</u>](https://wj.qq.com/s2/17904116/3f89/). It is recommended that you read these documents ([CV Writing Tips](https://www.discoverphds.com/advice/applying/cv-for-phd-application), [SZU Master Admission](https://yz.szu.edu.cn/info/1006/12985.htm), [SZU PhD Admission](https://yz.szu.edu.cn/info/1011/12703.htm)) before sending emails.
 
 It is ***not*** recommended to reach me if:  
-* you have no prior experiences on debugging projects with over 500 lines of codes – you will suffer a lot if you do not have this experience.  
-* you have no passion in research at all but just want a postgraduate degree. You are welcome to consider RA positions first (see below).  
+* you have no prior experience in debugging projects with over 500 lines of code – you will suffer a lot if you do not have this experience.  
+- you have no passion for research at all but just want a postgraduate degree. You are welcome to consider RA positions first. (see below).  
 
 
 &nbsp;
@@ -118,7 +119,8 @@ It is ***not*** recommended to reach me if:
 
 ---
 
-We always have Postdoc/RA openings on different kinds of projects, especially those collaborated with national/Guangdong key laboratories and leading technology companies in the Guangdong–Hong Kong–Macao Greater Bay Area. You will get paid competitively.
+We always have Postdoc/RA openings on different kinds of projects, especially those collaborated with national/Guangdong key laboratories and leading technology companies in the Guangdong–Hong Kong–Macao Greater Bay Area. 
+You are supposed to be qualified to participate in our research projects, so you need to show your ability. The contract is usually for six months, and we can extend it if you perform well. You will get paid competitively.  
 
 
 
