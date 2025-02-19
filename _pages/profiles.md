@@ -49,17 +49,17 @@ I am fortunate to work with these talented people:
 
 * [Ruibin Li](https://hkpeilab.github.io/people/ruibin-li/)  
     * Co-authored [AAAI'25, AAAI’24, ACM MM'24, IJCAI'24], Research: Diffusion Model Optimization   
-    * Current: Ph.D. Student@Hong Kong Polytechnic University (HKPFS Awarded)   
+    * Current: Ph.D. Student, Hong Kong Polytechnic University (HKPFS Awarded)   
 
 * [Liacheng Liang](https://jiacheng.netlify.app/)  
     * Co-authored [AAAI’23, TPAMI’24], Research: Edge AI and TinyML Systems   
-    * Current: Ph.D. Student@Stony Brook University   
+    * Current: Ph.D. Student, Stony Brook University   
 
 * Jun Pan  
     * Co-authored [AAAI’23, TPAMI’24], Research: Edge AI and TinyML Systems   
-    * Current: NLP Researcher@Lenovo Group   
+    * Current: NLP Researcher, Lenovo Group   
 
 * Boyuan Luo   
     * Co-authored [USENIX ATC’21, IoTJ’21, IoTJ'22], Research: On-Device Learning   
-    * Current: Software Engineer@Xiaomi Corporation   
+    * Current: Software Engineer, Xiaomi Corporation   
     
