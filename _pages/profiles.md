@@ -20,13 +20,13 @@ I am fortunate to work with these talented people:
     * 06/2025 – : Master Student (Chief Supervisor)
     * 09/2024 - 05/2025: Undergraduate Intern (Chief Supervisor)  
 
-* [Ziming Zhang (Harbin Institute of Technology)](https://zimingz2004.github.io/)  
+* [Ziming Zhang](https://zimingz2004.github.io/) (Harbin Institute of Technology)  
     * 12/2024 - : Undergraduate Intern (Chief Supervisor)
 
 
 ### Alumni
 
-* [Bohai Gu (University of Electronic Science and Technology of China)](https://nevsnev.github.io/)  
+* [Bohai Gu](https://nevsnev.github.io/) (University of Electronic Science and Technology of China)  
     * Submission to [ICCV'25], Research: Video Generation and Inpainting with Diffusion Models  
     * Current: Ph.D. Student in Computer Science, Hong Kong University of Science and Technology 
 
@@ -34,15 +34,15 @@ I am fortunate to work with these talented people:
     * Submission to [USENIX ATC'25], Research: Diffusion-Enhanced Video Semantic Streaming   
     * Current: Ph.D. Student in Computer Science, Hong Kong University of Science and Technology   
   
-* [Haodong Wang (Harbin Institute of Technology)](https://hkpeilab.github.io/people/haodong-wang/)  
+* [Haodong Wang](https://hkpeilab.github.io/people/haodong-wang/) (Harbin Institute of Technology)  
     * Co-authored [MobiCom'25], Research: Efficient MoE/LLM Serving Systems on Edge Devices   
     * Current: Ph.D. Student in Computer Science, Hong Kong University of Science and Technology   
 
-* [Ruibin Li (Tianjin Univeristy)](https://hkpeilab.github.io/people/ruibin-li/)  
+* [Ruibin Li](https://hkpeilab.github.io/people/ruibin-li/) (Tianjin Univeristy)  
     * Co-authored [AAAI'25, AAAI’24, ACM MM'24, IJCAI'24], Research: Diffusion Model Optimization   
     * Current: Ph.D. Student, Hong Kong Polytechnic University (HKPFS Awarded)   
 
-* [Liacheng Liang (Sun Yat-sen University)](https://jiacheng.netlify.app/)  
+* [Liacheng Liang](https://jiacheng.netlify.app/) (Sun Yat-sen University)  
     * Co-authored [AAAI’23, TPAMI’24], Research: Edge AI and TinyML Systems   
     * Current: Ph.D. Student, Stony Brook University   
 
@@ -54,8 +54,8 @@ I am fortunate to work with these talented people:
     * Co-authored [USENIX ATC’21, IoTJ’21, IoTJ'22], Research: On-Device Learning   
     * Current: Software Engineer, Xiaomi Corporation   
 
-* [Tao Lyu (South China University of Technology)](https://lvtao65535.github.io/)  
+* [Tao Lyu](https://lvtao65535.github.io/) (South China University of Technology)  
     * Current: Research Intern, Guangming Laboratory     
 
-* [Chi'ang Zhang (Huazhong University of Science and Technology)](https://zhangchiang.github.io/)  
+* [Chi'ang Zhang](https://zhangchiang.github.io/) (Huazhong University of Science and Technology)  
     * Current: Research Intern, Guangming Laboratory  
