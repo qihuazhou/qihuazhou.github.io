@@ -16,7 +16,7 @@ I am fortunate to work with these talented people:
     * 06/2025 – : Master Student (Chief Supervisor) 
     * 07/2024 – 05/2025: Undergraduate Intern (Chief Supervisor) 
 
-* Yongzhi She (Wuyi University)  
+* [Yongzhi She](https://yongzhishe.github.io/) (Wuyi University)  
     * 06/2025 – : Master Student (Chief Supervisor)
     * 09/2024 – 05/2025: Undergraduate Intern (Chief Supervisor)  
 
