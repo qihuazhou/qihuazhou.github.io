@@ -11,7 +11,7 @@ I am fortunate to work with these talented people:
 
 ### Research Students & Interns
 
-* Xinzhe Wang (Guilin University of Technology)  
+* [Xinzhe Wang](https://q2qx.github.io/xinzhewang.github.io/) (Guilin University of Technology)  
     * Submission to [TMM'25], Research: Low-light Image Enhancement with Diffusion Models
     * 06/2025 – : Master Student (Chief Supervisor) 
     * 07/2024 – 05/2025: Undergraduate Intern (Chief Supervisor) 
