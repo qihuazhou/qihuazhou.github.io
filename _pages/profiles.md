@@ -42,7 +42,7 @@ I am fortunate to work with these talented people:
     * Co-authored [AAAI'25, AAAI’24, ACM MM'24, IJCAI'24], Research: Diffusion Model Optimization   
     * Current: Ph.D. Student, Hong Kong Polytechnic University (HKPFS Awarded)   
 
-* [Liacheng Liang](https://jiacheng.netlify.app/) (Sun Yat-sen University)  
+* [Liacheng Liang](https://jiacheng.netlify.app/) (University of Electronic Science and Technology of China)  
     * Co-authored [AAAI’23, TPAMI’24], Research: Edge AI and TinyML Systems   
     * Current: Ph.D. Student, Stony Brook University   
 
