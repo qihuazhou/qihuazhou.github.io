@@ -83,7 +83,9 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 ### Join Us
 ---
 
-We are looking for strongly motivated Master/PhD students, Research Assistants/Associates, and Postdoctoral Fellows. Undergraduate interns and visiting students (onsite/remote) are also welcome! If you are SZU students, I will respond to all your emails (100% guaranteed) and you can also come to my office (Room 618-1) to talk with me.
+We are looking for strongly motivated Master/PhD students, Research Assistants/Associates, and Postdoctoral Fellows. Undergraduate interns and visiting students (onsite/remote) are also welcome! 
+
+If you are SZU students, I will respond to all your emails (100% guaranteed) and you can also come to my office (Room 618-1) to talk with me.
 
 Please fill out this [<u>Online Form</u>](https://wj.qq.com/s2/17904116/3f89/)  and drop me an email if you are interested. 
 
@@ -96,7 +98,7 @@ Please fill out this [<u>Online Form</u>](https://wj.qq.com/s2/17904116/3f89/)  
 
 You are always welcome! You will have the opportunity to get top-tier resources and work on pioneering projects, especially those in AI and LLMs. 
 
-This program is designed for **those who aspire to academic/research training** and can dedicate **a sustained period of at least six months** to focused study. 
+This program is designed for those who aspire to academic/research training and can dedicate a sustained period of at least six months to focused study. 
 Primary mentorship opportunities are usually reserved for current or incoming SZU students, but if you are truly exceptional (and we have exceptional cases), you can still get my mentorship. 
 
 I often spend much time with undergraduate students who exhibit a genuine passion for research, offering in-depth interactions and creating opportunities for their future development. We are happy to recommend outstanding students to top (overseas) universities. 
@@ -108,7 +110,7 @@ I often spend much time with undergraduate students who exhibit a genuine passio
 
 ---
 
-This program is designed for **those who are highly motivated** and are interested in pursuing research impacts. Our research group has a strong track record of doing cutting-edge research and has published many papers in top-tier conferences and journals.
+This program is designed for those who are highly motivated and are interested in pursuing research impacts. Our research group has a strong track record of doing cutting-edge research and has published many papers in top-tier conferences and journals.
 
 We encourage interested students to take a look at the research statement and come up with a research problem that you want to work on. Make sure you read these documents ([CV Writing Tips](https://www.discoverphds.com/advice/applying/cv-for-phd-application), [SZU Master Admission](https://yz.szu.edu.cn/info/1006/12985.htm), [SZU PhD Admission](https://yz.szu.edu.cn/info/1011/12703.htm)) before sending emails.
 
