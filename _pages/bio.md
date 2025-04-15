@@ -84,8 +84,13 @@ He serves as a reviewer for multiple important international conferences (NeurIP
 ### Teaching
 ---
 
-I have served as a teaching assistant at PolyU and HKUST in the following courses.
+**SZU:**  
+* Advanced Image and Video Compression (Spring 2025)  
+    M.Sc. Course, Shenzhen University
+* Introduction of Computer Science (Fall 2024)  
+    Undergraduate Course, Shenzhen University
 
+**PolyU and HKUST:**  
 * **COMP6311**: Advanced Data Analytics (Fall 2023)  
     Ph.D. Course, The Hong Kong University of Science and Technology  
 * **COMP5434**: Big Data Computing (Spring 2023)  

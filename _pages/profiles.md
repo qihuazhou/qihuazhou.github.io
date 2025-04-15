@@ -14,17 +14,20 @@ I am fortunate to work with these talented people:
 * [Xinzhe Wang](https://q2qx.github.io/xinzhewang.github.io/) (Guilin University of Technology)  
     * Submission to [TMM'25], Research: Low-light Image Enhancement with Diffusion Models
     * 04/2025 – : Master Student (Chief Supervisor) 
-    * 07/2024 – 03/2025: Undergraduate Intern (Chief Supervisor) 
+    * 07/2024 – 03/2025: Undergraduate Intern (Co-supervised with Prof. Shuiwang Li) 
 
 * [Yongzhi She](https://yongzhishe.github.io/) (Wuyi University)  
     * 04/2025 – : Master Student (Chief Supervisor)
-    * 09/2024 – 03/2025: Undergraduate Intern (Chief Supervisor)  
+    * 09/2024 – 03/2025: Undergraduate Reserach Intern (Chief Supervisor)  
 
 * [Yuquan Lu](https://yuquanlu01.github.io/) (Shanxi University)  
     * 04/2025 – : Master Student (Chief Supervisor)
 
 * [Ziming Zhang](https://zimingz2004.github.io/) (Harbin Institute of Technology)  
-    * 12/2024 – : Undergraduate Intern (Chief Supervisor)
+    * 12/2024 – : Undergraduate Reserach Intern (Chief Supervisor)
+
+* [Yushuang Zheng](https://yushuangzheng.github.io/) (Shenzhen University)  
+    * 03/2025 – : Undergraduate Reserach Intern (Chief Supervisor)   
 
 
 ### Alumni
