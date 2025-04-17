@@ -68,7 +68,7 @@ He aims at developing edge-native AI/ML systems that empower ubiquitous intellig
 ### Research Statement
 ---
 
-He focus on the design, optimization and deployment of highly-efficient **Embodied/Edge AI Systems**, covering the research intersection of **Efficient MoE/LLM Serving**, **Diffusion Generative Models**, **Tiny/On-Device Machine Learning**, **Neural Video Codecs**, and **AI for Health**.  
+He focus on the design, optimization and deployment of highly-efficient **Embodied/Edge AI Systems**, covering the research intersection of **Efficient MoE/LLM Serving**, **Diffusion Generative/VLA Models**, **Tiny/On-Device Machine Learning**, **Neural Video Codecs**, and **AI for Health**.  
 
 He recognize the importance of optimizing the *completed life-cycle* of intelligent tasks, from data sensing to knowledge-aware analytics and cross-entity interaction. 
 Embracing this closed-loop design philosophy, his vision is to extend the boundary of modern learning paradigms and present new research prospects for enhancing system-level performance.
