@@ -68,7 +68,7 @@ He aims at developing edge-native AI/ML systems that empower ubiquitous intellig
 ### Research Statement
 ---
 
-He focus on the design, optimization and deployment of highly-efficient **Embodied/Edge AI Systems**, covering the research intersection of **Efficient MoE/LLM Serving**, **Diffusion Generative/VLA Models**, **Tiny/On-Device Machine Learning**, **Neural Video Codecs**, and **AI for Health**.  
+He focus on the design, optimization and deployment of highly-efficient **Embodied/Edge AI Systems**, covering the research intersection of **Efficient MoE/LLM Serving**, **Diffusion Generative and VLA Models**, **Tiny/On-Device Machine Learning**, **Neural Video Codecs**, and **AI for Health**.  
 
 He recognize the importance of optimizing the *completed life-cycle* of intelligent tasks, from data sensing to knowledge-aware analytics and cross-entity interaction. 
 Embracing this closed-loop design philosophy, his vision is to extend the boundary of modern learning paradigms and present new research prospects for enhancing system-level performance.
@@ -99,7 +99,7 @@ Please fill out this [<u>Online Form</u>](https://wj.qq.com/s2/17904116/3f89/)  
 You are always welcome! You will have the opportunity to get top-tier resources and work on pioneering projects, especially those in AI and LLMs. 
 
 This program is designed for those who aspire to academic/research training and can dedicate a sustained period of at least six months to focused study. 
-Primary mentorship opportunities are usually reserved for current or incoming SZU students, but if you are truly exceptional (and we have exceptional cases), you can still get my mentorship. 
+Primary mentorship opportunities are usually reserved for current or incoming SZU students, but if you are truly exceptional (and we have exceptional cases), you can still get my mentoring. 
 
 I often spend much time with undergraduate students who exhibit a genuine passion for research, offering in-depth interactions and creating opportunities for their future development. We are happy to recommend outstanding students to top (overseas) universities. 
 
@@ -110,7 +110,7 @@ I often spend much time with undergraduate students who exhibit a genuine passio
 
 ---
 
-This program is designed for those who are highly motivated and are interested in pursuing research impacts. Our research group has a strong track record of doing cutting-edge research and has published many papers in top-tier conferences and journals.
+This program is designed for those who are highly self-motivated and are interested in pursuing research impacts. Our research group has a strong track record of doing cutting-edge research and has published many papers in top-tier conferences and journals.
 
 We encourage interested students to take a look at the research statement and come up with a research problem that you want to work on. Make sure you read these documents ([CV Writing Tips](https://www.discoverphds.com/advice/applying/cv-for-phd-application), [SZU Master Admission](https://yz.szu.edu.cn/info/1006/12985.htm), [SZU PhD Admission](https://yz.szu.edu.cn/info/1011/12703.htm)) before sending emails.
 
@@ -126,7 +126,7 @@ It is ***not*** recommended to reach me if:
 ---
 
 We always have Postdoc/RA openings on different kinds of projects, especially those collaborated with national/Guangdong key laboratories and leading technology companies in the Guangdong–Hong Kong–Macao Greater Bay Area. 
-You are supposed to be qualified to contribute to our research projects, so you need to show your ability. The contract is usually for six months, and we can extend it if you perform well. You will get paid competitively.  
+You are supposed to be qualified to contribute to our research/engineering projects, so you need to show your ability. The contract is usually for six months, and we can extend it if you perform well. You will get paid competitively.  
 
 
 
