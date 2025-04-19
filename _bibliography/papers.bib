@@ -2,6 +2,112 @@
 ---
 
 
+
+@inproceedings{d2moe_mobicom25,
+  selected={true},
+  abbr={MobiCom'25},
+  preview={d2moe_mobicom25},
+  bibtex_show={true},
+  pdf={https://arxiv.org/},
+  abstract={The mixture of experts (MoE) model is a sparse variant of large language models (LLMs), designed to hold a better balance between intelligent capability and computational overhead. Despite its benefits, MoE is still too expensive to deploy on resource-constrained edge devices, especially with the demands of on-device inference services. Recent research efforts often apply model compression techniques, such as quantization, pruning and merging, to restrict MoE complexity. Unfortunately, due to their predefined static model optimization strategies, they cannot always achieve the desired quality-overhead trade-off when handling multiple requests, finally degrading the on-device quality of service. These limitations motivate us to propose the D2MoE, an algorithm-system co-design framework that matches diverse task requirements by dynamically allocating the most proper bit-width to each expert. Specifically, inspired by the nested structure of matryoshka dolls, we propose the matryoshka weight quantization (MWQ) to progressively compress expert weights in a bit-nested manner and reduce the required runtime memory. On top of it, we further optimize the I/O-computation pipeline and design a heuristic scheduling algorithm following our hottest-expert-bit-first (HEBF) principle, which maximizes the expert parallelism between I/O and computation queue under constrained memory budgets, thus significantly reducing the idle temporal bubbles waiting for the experts to load. Evaluations on real edge devices show that D2MoE improves the overall inference throughput by up to 1.39X and reduces the peak memory footprint by up to 53% over the latest on-device inference frameworks, while still preserving comparable serving accuracy as its INT8 counterparts.},
+  author       = {Haodong Wang and
+                  Qihua Zhou and
+                  Zicong Hong and
+                  Song Guo},
+  title        = {D2MoE: Dual Routing and Dynamic Scheduling for Efficient On-Device MoE-based LLM Serving},
+  booktitle    = {The 31th Annual International Conference on Mobile Computing and Networking (MobiCom), Hong Kong},
+  year         = {2025}
+}
+
+
+
+
+@inproceedings{DBLP:conf/aaai/ZhouLGHXC025,
+  selected={true},
+  abbr={AAAI'25},
+  preview={denc_aaai25},
+  bibtex_show={true},
+  pdf={https://ojs.aaai.org/index.php/AAAI/article/view/32107},
+  abstract={Recent years have witnessed the rise of Neural-enhanced Video Streaming (NeVS), which integrates neural restoration models into video codecs for higher compression-restoration performance. Despite its benefit, existing work has not well explored the full potential of NeVS paradigm, due to: (1) post-streaming restoration by decoder while lacking the proactive collaboration of encoder, (2) end-to-end optimization based on conventional rate-distortion theory, which has been verified that low distortion is not always a synonym for high perceptual quality, and (3) coupled design for domain-specific tasks that cannot generalize to various video codecs. Observing these limitations, our objective is not to incrementally present an improved restoration model. Instead, we focus on the encoder-decoder synergy, i.e., the codec, which is non-trivial since it inherently strikes the rate-distortion-perception trade-off of NeVS. Aiming at this target, we propose the Diffusion-enhanced Neural Codec (DeNC), a plug-and-play module for current NeVS paradigm, to significantly reduce the required bitrates while preserving high perceptual quality of restored videos. Our key design is twofold. First, DeNC improves the encoder's compression efficiency by simultaneously reducing the resolution and color bit-depth of frame referencing. Second, DeNC empowers the decoder with perception-oriented restoration capability by making its diffusion-based restoration process aware of the encoder's compression conditions. Real-world evaluations show that DeNC improves compression ratios with nearly an order of magnitude and achieves much higher restoration quality (e.g., 93+ VMAF and 23% higher MOS) over the latest baselines.},
+  author       = {Qihua Zhou and
+                  Ruibin Li and
+                  Jingcai Guo and
+                  Yaodong Huang and
+                  Zhenda Xu and
+                  Laizhong Cui and
+                  Song Guo},
+  editor       = {Toby Walsh and
+                  Julie Shah and
+                  Zico Kolter},
+  title        = {DeNC: Unleash Neural Codecs in Video Streaming with Diffusion Enhancement},
+  booktitle    = {AAAI-25, Sponsored by the Association for the Advancement of Artificial
+                  Intelligence, February 25 - March 4, 2025, Philadelphia, PA, {USA}},
+  pages        = {1192--1200},
+  publisher    = {{AAAI} Press},
+  year         = {2025},
+  url          = {https://doi.org/10.1609/aaai.v39i1.32107},
+  doi          = {10.1609/AAAI.V39I1.32107},
+  timestamp    = {Thu, 17 Apr 2025 17:08:57 +0200},
+  biburl       = {https://dblp.org/rec/conf/aaai/ZhouLGHXC025.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+
+@inproceedings{DBLP:conf/aaai/LiuCZ0LL25,
+  selected={false},
+  abbr={AAAI'25},
+  preview={mjolnir_aaai25},
+  bibtex_show={true},
+  pdf={https://ojs.aaai.org/index.php/AAAI/article/view/34829},
+  abstract={Perturbation-based mechanisms, such as differential privacy, mitigate gradient leakage attacks by introducing noise into the gradients, thereby preventing attackers from reconstructing clients' private data from the leaked gradients. However, can gradient perturbation protection mechanisms truly defend against all gradient leakage attacks? In this paper, we present the first attempt to break the shield of gradient perturbation protection in Federated Learning for the extraction of private information. We focus on common noise distributions, specifically Gaussian and Laplace, and apply our approach to DNN and CNN models. We introduce Mjölnir, a perturbation-resilient gradient leakage attack that is capable of removing perturbations from gradients without requiring additional access to the original model structure or external data. Specifically, we leverage the inherent diffusion properties of gradient perturbation protection to develop a novel diffusion-based gradient denoising model for Mjölnir. By constructing a surrogate client model that captures the structure of perturbed gradients, we obtain crucial gradient data for training the diffusion model. We further utilize the insight that monitoring disturbance levels during the reverse diffusion process can enhance gradient denoising capabilities, allowing Mjölnir to generate gradients that closely approximate the original, unperturbed versions through adaptive sampling steps. Extensive experiments demonstrate that Mjölnir effectively recovers the protected gradients and exposes the Federated Learning process to the threat of gradient leakage, achieving superior performance in gradient denoising and private data recovery.},
+  author       = {Xuan Liu and
+                  Siqi Cai and
+                  Qihua Zhou and
+                  Song Guo and
+                  Ruibin Li and
+                  Kaiwei Lin},
+  editor       = {Toby Walsh and
+                  Julie Shah and
+                  Zico Kolter},
+  title        = {Mj{\"{o}}lnir: Breaking the Shield of Perturbation-Protected
+                  Gradients via Adaptive Diffusion},
+  booktitle    = {AAAI-25, Sponsored by the Association for the Advancement of Artificial
+                  Intelligence, February 25 - March 4, 2025, Philadelphia, PA, {USA}},
+  pages        = {26308--26316},
+  publisher    = {{AAAI} Press},
+  year         = {2025},
+  url          = {https://doi.org/10.1609/aaai.v39i25.34829},
+  doi          = {10.1609/AAAI.V39I25.34829},
+  timestamp    = {Thu, 17 Apr 2025 17:08:58 +0200},
+  biburl       = {https://dblp.org/rec/conf/aaai/LiuCZ0LL25.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
+}
+
+
+
+
+@ARTICLE{10908709,
+  selected={false},
+  abbr={IEEE TNNLS'25},
+  preview={fedfoa_tnnls25},
+  bibtex_show={true},
+  pdf={https://ieeexplore.ieee.org/document/10908709},
+  abstract={Extensive attention has been paid to the application of Self-supervised Learning (SSL) approaches on Federated Learning (FL) to tackle the label scarcity problem. Previous works on Federated SSL generally fall into two categories: parameter-based model aggregation or data-based feature sharing to achieve knowledge transfer among multiple unlabeled clients. Despite the progress, they inevitably rely on some assumptions, such as homogeneous models or the existence of an additional public dataset, which hinder the universality of the training frameworks for more general scenarios (e.g., unlabeled clients with heterogeneous models). Therefore, in this paper, we propose a novel and general method named Federated Self-supervised Learning with Feature-correlation based Aggregation (FedFoA) to tackle the above limitations. By exchanging feature correlation instead of model parameters or feature mappings, our approach reduces the discrepancies of local representations learning processes, thus promoting collaboration between heterogeneous clients. A factorization-based method is designed to extract the cross-feature relation matrix from local representations, which serves as a knowledge medium for the aggregation phase. We demonstrate that FedFoA is a heterogeneity-supportive and privacy-preserving training framework and can be easily compatible with state-of-the-art federated SSL methods. Extensive empirical experiments demonstrate our proposed approach outperforms the state-of-the-art methods by a significant margin.},
+  author={Yi Liu and Song Guo and Jie Zhang and Yufeng Zhan and Qihua Zhou and Yingchun Wang},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Feature Correlation-guided Knowledge Transfer for Federated Self-supervised Learning}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Training;Feature extraction;Matrix decomposition;Correlation;Self-supervised learning;Knowledge transfer;Data models;Vectors;Electronic mail;Collaboration;Contrastive learning;federated learning (FL);QR decomposition;self-supervised learning (SSL)},
+  doi={10.1109/TNNLS.2025.3541642}}
+
+
+
+
 @ARTICLE{10713262,
   selected={false},
   abbr={IEEE TC'24},
@@ -9,7 +115,7 @@
   bibtex_show={true},
   pdf={https://ieeexplore.ieee.org/document/10713262},
   abstract={Personalized federated learning (pFL) is a promising approach to train customized models for multiple clients over heterogeneous data distributions. However, existing works on pFL often rely on the optimization of model parameters and ignore the personalization demand on neural network architecture, which can greatly affect the model performance in practice. Therefore, generating personalized models with different neural architectures for different clients is a key issue in implementing pFL in a heterogeneous environment. Motivated by Neural Architecture Search (NAS), a model architecture searching methodology, this paper aims to automate the model design in a collaborative manner while achieving good training performance for each client. Specifically, we reconstruct the centralized searching of NAS into the distributed scheme called Personalized Architecture Search (PAS), where differentiable architecture fine-tuning is achieved via gradient-descent optimization, thus making each client obtain the most appropriate model. Furthermore, to aggregate knowledge from heterogeneous neural architectures, a knowledge distillation-based training framework is proposed to achieve a good trade-off between generalization and personalization in federated learning. Extensive experiments demonstrate that our architecture-level personalization method achieves higher accuracy under the non-iid settings, while not aggravating model complexity over state-of-the-art benchmarks.},
-  author={Liu, Yi and Guo, Song and Zhang, Jie and Hong, Zicong and Zhan, Yufeng and Zhou, Qihua},
+  author={Liu Yi and Guo Song and Zhang Jie and Hong Zicong and Zhan Yufeng and Zhou Qihua},
   journal={IEEE Transactions on Computers}, 
   title={Collaborative Neural Architecture Search for Personalized Federated Learning}, 
   year={2024},
@@ -58,7 +164,7 @@
   abbr={ACM MM'24, Oral},
   preview={freepih_mm24},
   bibtex_show={true},
-  pdf={https://openreview.net/pdf?id=de7GoqU3Uv},
+  pdf={dl.acm.org/doi/pdf/10.1145/3664647.3680780},
   abstract={This paper provides an efficient training-free painterly image harmonization (PIH) method, dubbed FreePIH, that leverages only a pre-trained diffusion model to achieve state-of-the-art harmonization results. Unlike existing methods that require either training auxiliary networks or fine-tuning a large pre-trained backbone, or both, to harmonize a foreground object with a painterly-style background image, our FreePIH tames the denoising process as a plug-in module for foreground image style transfer. Specifically, we find that the very last few steps of the denoising (i.e., generation) process strongly correspond to the stylistic information of images, and based on this, we propose to augment the latent features of both the foreground and background images with Gaussians for a direct denoising-based harmonization. To guarantee the fidelity of the harmonized image, we make use of multi-scale features to enforce the consistency of the content and stability of the foreground objects in the latent space, and meanwhile, aligning both fore-/back-grounds with the same style. Moreover, to accommodate the generation with more structural and textural details, we further integrate text prompts to attend to the latent features, hence improving the generation quality. Quantitative and qualitative evaluations on COCO and LAION 5B datasets demonstrate that our method can surpass representative baselines by large margins.},
   author       = {Ruibin Li and
                   Jingcai Guo and
@@ -119,6 +225,7 @@
   preview={pass_tpami24},
   bibtex_show={true},
   pdf={https://ieeexplore.ieee.org/document/10381763},
+  code={https://github.com/kimihe/MaskGate},
   abstract={Real-time video perception tasks are often challenging on resource-constrained edge devices due to the issues of accuracy drop and hardware overhead, where saving computations is the key to performance improvement. Existing methods either rely on domain-specific neural chips or priorly searched models, which require specialized optimization according to different task properties. These limitations motivate us to design a general and task-independent methodology, called Patch Automatic Skip Scheme (PASS), which supports diverse video perception settings by decoupling acceleration and tasks. The gist is to capture inter-frame correlations and skip redundant computations at patch level, where the patch is a non-overlapping square block in visual. PASS equips each convolution layer with a learnable gate to selectively determine which patches could be safely skipped without degrading model accuracy. Specifically, we are the first to construct a self-supervisory procedure for gate optimization, which learns to extract contrastive representations from frame sequences. The pre-trained gates can serve as plug-and-play modules to implement patch-skippable neural backbones, and automatically generate proper skip strategy to accelerate different video-based downstream tasks, e.g., outperforming state-of-the-art MobileHumanPose in 3D pose estimation and FairMOT in multiple object tracking, by up to 9.43× and 12.19× speedups, respectively, on NVIDIA Jetson Nano devices.},
   author       = {Qihua Zhou and
                   Song Guo and
@@ -236,6 +343,7 @@
   preview={pass_aaai23},
   bibtex_show={true},
   pdf={https://ojs.aaai.org/index.php/AAAI/article/view/25491},
+  code={https://github.com/kimihe/TokenPose},
   abstract={Real-time video perception tasks are often challenging over the resource-constrained edge devices due to the concerns of accuracy drop and hardware overhead, where saving computations is the key to performance improvement. Existing methods either rely on domain-specific neural chips or priorly searched models, which require specialized optimization according to different task properties. In this work, we propose a general and task-independent Patch Automatic Skip Scheme (PASS), a novel end-to-end learning pipeline to support diverse video perception settings by decoupling acceleration and tasks. The gist is to capture the temporal similarity across video frames and skip the redundant computations at patch level, where patch is a non-overlapping square block in visual. PASS equips each convolution layer with a learnable gate to selectively determine which patches could be safely skipped without degrading model accuracy. As to each layer, a desired gate needs to make flexible skip decisions based on intermediate features without any annotations, which cannot be achieved by conventional supervised learning paradigm. To address this challenge, we are the first to construct a tough self-supervisory procedure for optimizing these gates, which learns to extract contrastive representation, i.e., distinguishing similarity and difference, from frame sequence. These high-capacity gates can serve as a plug-and-play module for convolutional neural network (CNN) backbones to implement patch-skippable architectures, and automatically generate proper skip strategy to accelerate different video-based downstream tasks, e.g., outperforming the state-of-the-art MobileHumanPose (MHP) in 3D pose estimation and FairMOT in multiple object tracking, by up to 9.43 times and 12.19 times speedups, respectively. By directly processing the raw data of frames, PASS can generalize to real-time video streams on commodity edge devices, e.g., NVIDIA Jetson Nano and mobile phones, and achieves efficient performance in realistic deployment.},
   author       = {Qihua Zhou and
                   Song Guo and

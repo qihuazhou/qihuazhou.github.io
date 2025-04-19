@@ -138,12 +138,12 @@ You are supposed to be qualified to contribute to our research/engineering proje
 ---
 
 * 12/2024: **[Paper]** [D2MoE](https://www.sigmobile.org/mobicom/2025/cfp.html) has been accepted by [ACM MobiCom'25 (CCF-A)](https://www.sigmobile.org/mobicom/2025/cfp.html).  
-* 12/2024: **[Paper]** [DeNC](https://aaai.org/conference/aaai/aaai-25/) has been accepted by [AAAI'25 (CCF-A)](https://aaai.org/conference/aaai/aaai-25/).  
-* 12/2024: **[Paper]** [Mjölnir](https://aaai.org/conference/aaai/aaai-25/) has been accepted by [AAAI'25 (CCF-A)](https://aaai.org/conference/aaai/aaai-25/).  
-* 12/2024: **[Paper]** [FedFoA](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) has been accepted by [IEEE TNNLS'24 (JCR-Q1, CCF-B)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).  
-* 09/2024: **[Paper]** [pNAS](https://xplorestaging.ieee.org/xpl/aboutJournal.jsp?punumber=12) has been accepted by [IEEE TC'24](https://xplorestaging.ieee.org/xpl/aboutJournal.jsp?punumber=12).   
-* 09/2024: **[Paper]** [pFedC](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755) has been accepted by [IEEE TMC'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).  
-* 07/2024: **[Paper]** [FreePIH](https://openreview.net/pdf?id=de7GoqU3Uv) has been accepted by [ACM Multimedia'24, Oral](https://2024.acmmm.org/).   
+* 12/2024: **[Paper]** [DeNC](https://ojs.aaai.org/index.php/AAAI/article/view/32107) has been accepted by [AAAI'25 (CCF-A)](https://aaai.org/conference/aaai/aaai-25/).  
+* 12/2024: **[Paper]** [Mjölnir](https://ojs.aaai.org/index.php/AAAI/article/view/34829) has been accepted by [AAAI'25 (CCF-A)](https://aaai.org/conference/aaai/aaai-25/).  
+* 12/2024: **[Paper]** [FedFoA](https://ieeexplore.ieee.org/document/10908709) has been accepted by [IEEE TNNLS'24 (JCR-Q1, CCF-B)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).  
+* 09/2024: **[Paper]** [pNAS](https://ieeexplore.ieee.org/document/10713262) has been accepted by [IEEE TC'24](https://xplorestaging.ieee.org/xpl/aboutJournal.jsp?punumber=12).   
+* 09/2024: **[Paper]** [pFedC](https://ieeexplore.ieee.org/document/10689471) has been accepted by [IEEE TMC'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).  
+* 07/2024: **[Paper]** [FreePIH](dl.acm.org/doi/pdf/10.1145/3664647.3680780) has been accepted by [ACM Multimedia'24, Oral](https://2024.acmmm.org/).   
 * 04/2024: **[Paper]** [ParsNets](https://arxiv.org/pdf/2312.09709) has been accepted by [IJCAI'24](https://ijcai24.org/).  
 * 01/2024: **[Paper]** [PASS](https://ieeexplore.ieee.org/document/10381763) has been accepted by [IEEE TPAMI'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).   
 * 01/2024: **[Paper]** [Chiron](https://ieeexplore.ieee.org/document/10382540) has been accepted by [IEEE TMC'24](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).   
