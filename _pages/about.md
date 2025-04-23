@@ -89,7 +89,7 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 ### Recent News
 ---
 
-* 12/2024: **[Paper]** [D2MoE](https://www.sigmobile.org/mobicom/2025/cfp.html) has been accepted by [ACM MobiCom'25 (CCF-A)](https://www.sigmobile.org/mobicom/2025/cfp.html).  
+* 12/2024: **[Paper]** [D2MoE](https://arxiv.org/pdf/2504.15299) has been accepted by [ACM MobiCom'25 (CCF-A)](https://www.sigmobile.org/mobicom/2025/cfp.html).  
 * 12/2024: **[Paper]** [DeNC](https://ojs.aaai.org/index.php/AAAI/article/view/32107) has been accepted by [AAAI'25 (CCF-A)](https://aaai.org/conference/aaai/aaai-25/).  
 * 12/2024: **[Paper]** [Mjölnir](https://ojs.aaai.org/index.php/AAAI/article/view/34829) has been accepted by [AAAI'25 (CCF-A)](https://aaai.org/conference/aaai/aaai-25/).  
 * 12/2024: **[Paper]** [FedFoA](https://ieeexplore.ieee.org/document/10908709) has been accepted by [IEEE TNNLS'24 (JCR-Q1, CCF-B)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).  
