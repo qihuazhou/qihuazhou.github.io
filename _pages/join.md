@@ -56,7 +56,7 @@ It is ***not*** recommended to reach me if:
 ---
 
 We always have Postdoc/RA openings on different kinds of projects, especially those collaborated with national/Guangdong key laboratories and leading technology companies in the Guangdong–Hong Kong–Macao Greater Bay Area. 
-You are supposed to be qualified to contribute to our research/engineering projects, so you need to show your ability. The contract is usually for six months, and we can extend it if you perform well. You will get paid competitively.  
+You are supposed to be qualified to contribute to our research/engineering projects, so you need to show your ability. Please note that it's a job and you should hold a least a bachelor's degree. The contract is usually for six months, and we can extend it if you perform well. You will get paid competitively.  
 
 
 
