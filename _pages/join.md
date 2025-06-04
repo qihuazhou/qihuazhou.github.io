@@ -29,7 +29,7 @@ Please fill out this [<u>Online Form</u>](https://wj.qq.com/s2/17904116/3f89/)  
 You are always welcome! You will have the opportunity to get top-tier resources and work on pioneering projects, especially those in AI and LLMs. 
 
 This program is designed for those who aspire to academic/research training and can dedicate a sustained period of at least six months to focused study. 
-Primary mentorship opportunities are usually reserved for current or incoming SZU students, but if you are truly exceptional (and we have exceptional cases), you can still get my mentoring. 
+Primary mentorship opportunities are usually reserved for current or incoming SZU students, but if you are truly exceptional (and we have exceptional cases), you can still get my mentoring. Research stipends are provided. 
 
 I often spend much time with undergraduate students who exhibit a genuine passion for research, offering in-depth interactions and creating opportunities for their future development. We are happy to recommend outstanding students to top (overseas) universities. 
 
@@ -56,7 +56,7 @@ It is ***not*** recommended to reach me if:
 ---
 
 We always have Postdoc/RA openings on different kinds of projects, especially those collaborated with national/Guangdong key laboratories and leading technology companies in the Guangdong–Hong Kong–Macao Greater Bay Area. 
-You are supposed to be qualified to contribute to our research/engineering projects, so you need to show your ability. Please note that it's a job and you should hold a least a bachelor's degree. The contract is usually for six months, and we can extend it if you perform well. You will get paid competitively.  
+You are supposed to be qualified to contribute to our research/engineering projects, so you need to show your ability. Please note that it's a job and you should hold at least a bachelor's degree. The contract is usually for six months, and we can extend it if you perform well. You will get paid competitively.  
 
 
 
