@@ -39,7 +39,7 @@ Office: Room 618-1, Zhiteng Building, Yuehai Campus, SZU
 
 I was fortunate to have been supervised by Professor [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) at [PolyU](https://www.polyu.edu.hk/) and [HKUST](https://hkust.edu.hk/), and by Professor [Yanfei Sun](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52D3F2DCFE050007F01006EFE) at [NJUPT](https://www.njupt.edu.cn/).
 
-[qihuazhou[at]szu.edu.cn](mailto:qihuazhou[at]szu.edu.cn) <code>&#124;</code> [Google Scholar](https://scholar.google.com/citations?user=vsD8e8QAAAAJ) <code>&#124;</code> [GitHub](https://github.com/kimihe) <code>&#124;</code> [中文主页](https://csse.szu.edu.cn/pages/user/index?id=1309)
+[qihuazhou[at]szu.edu.cn](mailto:qihuazhou[at]szu.edu.cn) <code>&#124;</code> [Google Scholar](https://scholar.google.com/citations?user=vsD8e8QAAAAJ) <code>&#124;</code> [GitHub](https://github.com/kimihe) <code>&#124;</code> [<u>中文主页</u>](https://csse.szu.edu.cn/pages/user/index?id=1309)
 
 
 <!-- > <span style="font-size:11pt; color:#A8A8A8"> *"I never think of the future. It comes soon enough." — Albert Einstein*</span>   -->
