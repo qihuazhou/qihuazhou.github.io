@@ -9,7 +9,10 @@ nav_order: 3
 
 I am fortunate to work with these talented people:
 
-### Research Students & Interns
+### Research Students
+
+* Wenjun Lan (University of Electronic Science and Technology)  
+    * 05/2025 – : PhD Student (Chief Supervisor) 
 
 * [Xinzhe Wang](https://q2qx.github.io/xinzhewang.github.io/) (Guilin University of Technology)  
     * Submission to [TMM'25], Research: Low-light Image Enhancement with Diffusion Models
