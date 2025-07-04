@@ -22,13 +22,13 @@ Please fill out this [<u>Online Form</u>](https://wj.qq.com/s2/17904116/3f89/)  
 
 &nbsp;
 
-### **For Undergraduate Interns/Visiting Students:**   
+### **For Undergraduate Interns/Visitors:**   
 
 ---
 
 You are always welcome! You will have the opportunity to get top-tier resources and work on pioneering projects, especially those in AIGC, LLMs, and robots. 
 
-This program is designed for those who aspire to academic/research training and can dedicate a sustained period of at least six months to focused study. 
+This program is designed for undergraduate students who aspire to academic/research training and can dedicate a sustained period of at least six months to focused study. 
 Primary mentorship opportunities are usually reserved for current or incoming SZU students, but if you are truly exceptional (and we have exceptional cases), you can still get my mentoring. Research stipends are provided. 
 
 I often spend much time with undergraduate students who exhibit a genuine passion for research, offering in-depth interactions and creating opportunities for their future development. We are happy to recommend outstanding students to top (overseas) universities. 
