@@ -17,7 +17,7 @@ I am fortunate to work with these talented people:
 * [Xinzhe Wang](https://q2qx.github.io/xinzhewang.github.io/) (Guilin University of Technology)  
     * Submission to [TMM'25], Research: Low-light Image Enhancement with Diffusion Models
     * 04/2025 – : Master Student (Chief Supervisor) 
-    * 07/2024 – 03/2025: Undergraduate Intern (Co-supervised with Prof. Shuiwang Li) 
+    * 07/2024 – 03/2025: Undergraduate Reserach Intern (Co-supervised with Prof. Shuiwang Li) 
 
 * [Yongzhi She](https://yongzhishe.github.io/) (Wuyi University)  
     * 04/2025 – : Master Student (Chief Supervisor)
@@ -61,10 +61,4 @@ I am fortunate to work with these talented people:
 
 * Boyuan Luo (The Hong Kong Polytechnic University)   
     * Co-authored [USENIX ATC’21, IoTJ’21, IoTJ'22], Research: On-Device Learning   
-    * Current: Software Engineer, Xiaomi Corporation   
-
-* [Tao Lyu](https://lvtao65535.github.io/) (South China University of Technology)  
-    * Current: Research Intern, Guangming Laboratory     
-
-* [Chi'ang Zhang](https://zhangchiang.github.io/) (Huazhong University of Science and Technology)  
-    * Current: Research Intern, Guangming Laboratory  
+    * Current: Software Engineer, Xiaomi Corporation    
