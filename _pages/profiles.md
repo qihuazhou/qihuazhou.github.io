@@ -47,7 +47,7 @@ I am fortunate to work with these talented people:
     * Current: Ph.D. Student in Computer Science, Hong Kong University of Science and Technology 
 
 * Wangjiang Gong (The Hong Kong Polytechnic University)  
-    * Submission to [USENIX ATC'25], Research: Diffusion-Enhanced Video Semantic Streaming   
+    * Co-authored [AAAI'26], Research: Diffusion-Enhanced Video Semantic Streaming   
     * Current: Ph.D. Student in Computer Science, Hong Kong University of Science and Technology   
   
 * [Haodong Wang](https://hkpeilab.github.io/people/haodong-wang/) (Harbin Institute of Technology)  
