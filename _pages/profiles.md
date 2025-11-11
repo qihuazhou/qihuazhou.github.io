@@ -26,11 +26,18 @@ I am fortunate to work with these talented people:
 * [Yuquan Lu](https://yuquanlu01.github.io/) (Shanxi University)  
     * 04/2025 – : Master Student (Chief Supervisor)
 
+* [Yuhao Wang](https://yuhaow182.github.io/) (Wuyi University)  
+    * 04/2026 – : Master Student (Chief Supervisor)
+    * 09/2025 – 03/2026: Undergraduate Reserach Intern (Chief Supervisor) 
+
 * [Ziming Zhang](https://zimingz2004.github.io/) (Harbin Institute of Technology)  
     * 12/2024 – : Undergraduate Reserach Intern (Chief Supervisor)
 
 * [Yushuang Zheng](https://yushuangzheng.github.io/) (Shenzhen University)  
     * 03/2025 – : Undergraduate Reserach Intern (Chief Supervisor)   
+
+* Haobin Xu (Shenzhen University)  
+    * 09/2025 – : Undergraduate Reserach Intern (Chief Supervisor) 
 
 
 ### Alumni
