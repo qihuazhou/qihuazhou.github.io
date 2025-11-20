@@ -30,13 +30,19 @@ I am fortunate to work with these talented people:
     * 04/2026 – : Master Student (Chief Supervisor)
     * 09/2025 – 03/2026: Undergraduate Reserach Intern (Chief Supervisor) 
 
+* [Yutong He](https://ytonghe.github.io/) (Hunan University of Technology and Business)  
+    * 04/2026 – : Master Student (Chief Supervisor)
+
+* [Mingkang Fu](https://mingkangmi.github.io/) (ChenDu University of Technology)  
+    * 04/2026 – : Master Student (Chief Supervisor)
+
 * [Ziming Zhang](https://zimingz2004.github.io/) (Harbin Institute of Technology)  
     * 12/2024 – : Undergraduate Reserach Intern (Chief Supervisor)
 
 * [Yushuang Zheng](https://yushuangzheng.github.io/) (Shenzhen University)  
     * 03/2025 – : Undergraduate Reserach Intern (Chief Supervisor)   
 
-* Haobin Xu (Shenzhen University)  
+* [Haobin Xu](https://haobinxu2025.github.io/) (Shenzhen University)  
     * 09/2025 – : Undergraduate Reserach Intern (Chief Supervisor) 
 
 
