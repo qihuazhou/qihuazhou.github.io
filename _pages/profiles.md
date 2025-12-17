@@ -33,6 +33,9 @@ I am fortunate to work with these talented people:
 * [Yutong He](https://ytonghe.github.io/) (Hunan University of Technology and Business)  
     * 04/2026 – : Master Student (Chief Supervisor)
 
+* [Shiyu Liu](https://wmjingliu.github.io/) (Jiangxi Agricultural University)  
+    * 04/2026 – : Master Student (Chief Supervisor)
+
 * [Mingkang Fu](https://mingkangmi.github.io/) (ChenDu University of Technology)  
     * 04/2026 – : Master Student (Chief Supervisor)
 
