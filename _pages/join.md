@@ -39,7 +39,7 @@ I often spend much time with undergraduate students who exhibit a genuine passio
 
 ---
 
-This program is designed for those who are highly self-motivated and aim to publish papers in top-tier venues of AI and systems, e.g., ICML, NeurIPS, ICLR, CVPR, MobiCom, ASPLOS, and EuroSys (click (here)[https://csrankings.org/#/fromyear/2020/toyear/2025/index?all&cn] to learn more about computer science rankings). Our research group has a strong track record of conducting cutting-edge research and constantly strives for high research impact. 
+This program is designed for those who are highly self-motivated and aim to publish papers in top-tier venues of AI and systems, e.g., ICML, NeurIPS, ICLR, CVPR, MobiCom, ASPLOS, and EuroSys [click (here](https://csrankings.org/#/fromyear/2020/toyear/2025/index?all&cn) to learn more about computer science rankings). Our research group has a strong track record of conducting cutting-edge research and constantly strives for high research impact. 
 
 We encourage interested students to take a look at the research statement and come up with a research problem that you want to work on. Make sure you read these documents ([CV Writing Tips](https://www.discoverphds.com/advice/applying/cv-for-phd-application), [SZU Master Admission](https://yz.szu.edu.cn/info/1006/12985.htm), [SZU PhD Admission](https://yz.szu.edu.cn/info/1011/12703.htm)) before sending emails.
 
