@@ -2,13 +2,13 @@
 layout: about
 title: Home
 permalink: /
-subtitle: 
+subtitle:
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: 
+  more_info:
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -22,7 +22,7 @@ var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
   hm.src = "https://hm.baidu.com/hm.js?e1fbc51bf0047233391b8fc6e4db66ac";
-  var s = document.getElementsByTagName("script")[0]; 
+  var s = document.getElementsByTagName("script")[0];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
@@ -35,7 +35,7 @@ Distinguished Professor
 [Shenzhen University](https://www.szu.edu.cn/)  
 Shenzhen 518060, Guangdong, P.R.China  
 
-Office: Room 618-1, Zhiteng Building, Yuehai Campus, SZU
+Office: 618-1, Zhiteng Building, Yuehai Campus, SZU
 
 I was fortunate to have been supervised by Professor [Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) at [PolyU](https://www.polyu.edu.hk/) and [HKUST](https://hkust.edu.hk/), and by Professor [Yanfei Sun](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52D3F2DCFE050007F01006EFE) at [NJUPT](https://www.njupt.edu.cn/).
 
@@ -54,7 +54,7 @@ I was fortunate to have been supervised by Professor [Song Guo](https://cse.hkus
 Qihua Zhou is a Distinguished Professor with the [College of Computer Science and Software Engineering](https://csse.szu.edu.cn/pages/user/index?id=1309) at [Shenzhen University](https://www.szu.edu.cn/). He is a co-founder of [Hong Kong DrBody Co., Limited](https://zerodrbody.wixsite.com/drbody). He works closely with [Prof. Laizhong Cui](https://csse.szu.edu.cn/staff/cuilz/eng/index.html) at SZU and [Prof. Song Guo]((https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo)) at HKUST.
 
 He received his Ph.D. degree in the Department of Computing, [Hong Kong Polytechnic University](https://www.polyu.edu.hk/), advised by [Prof. Song Guo](https://cse.hkust.edu.hk/admin/people/faculty/profile/songguo) (now HKUST).
-Before that, he received a Ph.D. degree in the College of Automation and College of Artificial Intelligence, [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), advised by [Prof. Yanfei Sun](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52D3F2DCFE050007F01006EFE). 
+Before that, he received a Ph.D. degree in the College of Automation and College of Artificial Intelligence, [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), advised by [Prof. Yanfei Sun](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52D3F2DCFE050007F01006EFE).
 <!-- and [Prof. Kun Wang](https://sme.fudan.edu.cn/60/2f/c31133a352303/page.htm). -->
 
 He aims at developing edge-native AI/ML systems that empower ubiquitous intelligent services, particularly in resource-constrained environments, to enrich human life in diverse aspects.
@@ -70,7 +70,7 @@ He aims at developing edge-native AI/ML systems that empower ubiquitous intellig
 
 He focus on the design, optimization and deployment of highly-efficient **Edge Embodied AI Systems**, covering the research intersection of **Efficient AI Computing**, **Efficient MoE/LLM Serving**, **Diffusion Generative and VLA Models**, **Tiny/On-Device Machine Learning**, **Neural Video Codecs**, and **AI for Networking and Transportation**.  
 
-He recognize the importance of optimizing the *completed life-cycle* of intelligent tasks, from data sensing to knowledge-aware analytics and cross-entity interaction. 
+He recognize the importance of optimizing the *completed life-cycle* of intelligent tasks, from data sensing to knowledge-aware analytics and cross-entity interaction.
 Embracing this closed-loop design philosophy, his vision is to extend the boundary of modern learning paradigms and present new research prospects for enhancing system-level performance.
 
 <!-- His research outcomes cover a broad spectrum, ranging from *theory* to *implementation*, with a primary focus on three key aspects. -->
@@ -89,8 +89,10 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 ### Recent News
 ---
 
-* 11/2025: **[Paper]** [DeNC++](https://aaai.org/conference/aaai/aaai-26/) has been accepted by [AAAI'26 (CCF-A, Oral)](https://aaai.org/conference/aaai/aaai-26/).  
-* 12/2024: **[Paper]** [D2MoE](https://arxiv.org/pdf/2504.15299) has been accepted by [ACM MobiCom'25 (CCF-A)](https://www.sigmobile.org/mobicom/2025/cfp.html).  
+* 2026.05: **[Paper]** [Spik4lite](https://icml.cc/Conferences/2026) has been accepted by [ICML'26](https://icml.cc/Conferences/2026).  
+* 2026.04 **[Competition]** [Controlling a Marathon Robot from 2000+ KM!](https://mp.weixin.qq.com/s/vj7OG17E1B-T5zhCYN18Fg), [Beijing E-Town Humanoid Robot Half Marathon](https://etown-halfmarathon.ejplay.com.cn/).  
+* 11/2025: **[Paper]** [DeNC++](https://ojs.aaai.org/index.php/AAAI/article/view/40135) has been accepted by [AAAI'26 (CCF-A)](https://aaai.org/conference/aaai/aaai-26/).  
+* 04/2025: **[Paper]** [D2MoE](https://arxiv.org/pdf/2504.15299) has been accepted by [ACM MobiCom'25 (CCF-A)](https://www.sigmobile.org/mobicom/2025/cfp.html).  
 * 12/2024: **[Paper]** [DeNC](https://ojs.aaai.org/index.php/AAAI/article/view/32107) has been accepted by [AAAI'25 (CCF-A)](https://aaai.org/conference/aaai/aaai-25/).  
 * 12/2024: **[Paper]** [Mjölnir](https://ojs.aaai.org/index.php/AAAI/article/view/34829) has been accepted by [AAAI'25 (CCF-A)](https://aaai.org/conference/aaai/aaai-25/).  
 * 12/2024: **[Paper]** [FedFoA](https://ieeexplore.ieee.org/document/10908709) has been accepted by [IEEE TNNLS'24 (JCR-Q1, CCF-B)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385).  
@@ -100,6 +102,3 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 * 04/2024: **[Paper]** [ParsNets](https://arxiv.org/pdf/2312.09709) has been accepted by [IJCAI'24](https://ijcai24.org/).  
 * 01/2024: **[Paper]** [PASS](https://ieeexplore.ieee.org/document/10381763) has been accepted by [IEEE TPAMI'24 (CCF-A)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).   
 * 01/2024: **[Paper]** [Chiron](https://ieeexplore.ieee.org/document/10382540) has been accepted by [IEEE TMC'24 (CCF-A)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).   
-
-
-

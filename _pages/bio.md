@@ -16,7 +16,7 @@ He received his Ph.D. degree in the Department of Computing, [Hong Kong Polytech
 Before that, he received a Ph.D. degree in the College of Automation and College of Artificial Intelligence, [Nanjing University of Posts and Telecommunications](https://www.njupt.edu.cn/), advised by [Prof. Yanfei Sun](https://yjs.njupt.edu.cn/dsgl/nocontrol/college/dsfcxq.htm?dsJbxxId=9B9D05C52D3F2DCFE050007F01006EFE).
  <!-- and [Prof. Kun Wang](https://sme.fudan.edu.cn/60/2f/c31133a352303/page.htm). -->
 
-He has long been engaged in the research fields of Edge AI, Tiny Machine Learning, Video Streaming Systems, and Distributed Machine Learning. He has published multiple top-tier international journal and conference papers, including IEEE TPAMI, IEEE TPDS, IEEE TC, IEEE TMC, ACM MobiCom, USENIX ATC, NeurIPS, AAAI, IJCAI, IEEE ICDCS, IEEE IPDPS, etc.
+He has long been engaged in the research fields of Edge AI, Tiny Machine Learning, Video Streaming Systems, and Distributed Machine Learning. He has published multiple top-tier international journal and conference papers, including IEEE TPAMI, IEEE TPDS, IEEE TC, IEEE TMC, ACM MobiCom, USENIX ATC, ICML, NeurIPS, AAAI, IJCAI, IEEE ICDCS, IEEE IPDPS, etc.
 
 He serves as a reviewer for multiple important international conferences (NeurIPS, ICLR, ICML, AAAI, ICCV, CVPR, ECCV, IJCAI, MM, INFOCOM, etc) and journals (IEEE TMC, IEEE TPDS, IEEE TC, IEEE IoTJ, ACM CSUR, IEEE TIT, etc).
 
