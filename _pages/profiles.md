@@ -14,17 +14,18 @@ I am fortunate to work with these talented people:
 * Wenjun Lan (University of Electronic Science and Technology)  
     * 05/2025 – : PhD Student (Chief Supervisor) 
 
-* [Xinzhe Wang](https://q2qx.github.io/xinzhewang.github.io/) (Guilin University of Technology)  
-    * Submission to [TMM'25], Research: Low-light Image Enhancement with Diffusion Models
-    * 04/2025 – : Master Student (Chief Supervisor) 
-    * 07/2024 – 03/2025: Undergraduate Reserach Intern (Co-supervised with Prof. Shuiwang Li) 
-
 * [Yongzhi She](https://yongzhishe.github.io/) (Wuyi University)  
+    * First author: [ICML'26](https://icml.cc/virtual/2026/poster/63522), Research: Efficient SNNs on Commodity Edge Devices   
     * 04/2025 – : Master Student (Chief Supervisor)
     * 09/2024 – 03/2025: Undergraduate Reserach Intern (Chief Supervisor)  
 
 * [Yuquan Lu](https://yuquanlu01.github.io/) (Shanxi University)  
     * 04/2025 – : Master Student (Chief Supervisor)
+
+* [Xinzhe Wang](https://q2qx.github.io/xinzhewang.github.io/) (Guilin University of Technology)  
+    <!-- * Submission to [TMM'25], Research: Low-light Image Enhancement with Diffusion Models -->
+    * 04/2025 – : Master Student (Chief Supervisor) 
+    * 07/2024 – 03/2025: Undergraduate Reserach Intern (Co-supervised with Prof. Shuiwang Li) 
 
 * [Yuhao Wang](https://yuhaow182.github.io/) (Wuyi University)  
     * 04/2026 – : Master Student (Chief Supervisor)
@@ -36,31 +37,34 @@ I am fortunate to work with these talented people:
 * [Shiyu Liu](https://wmjingliu.github.io/) (Jiangxi Agricultural University)  
     * 04/2026 – : Master Student (Chief Supervisor)
 
-* [Mingkang Fu](https://mingkangmi.github.io/) (ChenDu University of Technology)  
+* [Mingkang Mi](https://mingkangmi.github.io/) (ChenDu University of Technology)  
     * 04/2026 – : Master Student (Chief Supervisor)
 
-* [Ziming Zhang](https://zimingz2004.github.io/) (Harbin Institute of Technology)  
-    * 12/2024 – : Undergraduate Reserach Intern (Chief Supervisor)
-
 * [Yushuang Zheng](https://yushuangzheng.github.io/) (Shenzhen University)  
+    * Award: Outstanding Undergraduate Thesis of Shenzhen University
     * 03/2025 – : Undergraduate Reserach Intern (Chief Supervisor)   
 
 * [Haobin Xu](https://haobinxu2025.github.io/) (Shenzhen University)  
     * 09/2025 – : Undergraduate Reserach Intern (Chief Supervisor) 
 
 
+
 ### Alumni
 
-* [Bohai Gu](https://nevsnev.github.io/) (University of Electronic Science and Technology of China)  
+<!-- * [Bohai Gu](https://nevsnev.github.io/) (University of Electronic Science and Technology of China)  
     * Submission to [ICCV'25], Research: Video Generation and Inpainting with Diffusion Models  
-    * Current: Ph.D. Student in Computer Science, Hong Kong University of Science and Technology 
+    * Current: Ph.D. Student in Computer Science, Hong Kong University of Science and Technology  -->
+
+* [Ziming Zhang](https://zimingz2004.github.io/) (Harbin Institute of Technology)  
+    * 12/2024 – 08/2025: Undergraduate Reserach Intern (Chief Supervisor)
+    * Current: Ph.D. Student in Computer Science, Hong Kong University of Science and Technology
 
 * Wangjiang Gong (The Hong Kong Polytechnic University)  
-    * Co-authored [AAAI'26], Research: Diffusion-Enhanced Video Semantic Streaming   
+    * Co-authored [AAAI'26](https://ojs.aaai.org/index.php/AAAI/article/view/40135), Research: Diffusion-Enhanced Video Semantic Streaming   
     * Current: Ph.D. Student in Computer Science, Hong Kong University of Science and Technology   
   
 * [Haodong Wang](https://hkpeilab.github.io/people/haodong-wang/) (Harbin Institute of Technology)  
-    * Co-authored [MobiCom'25], Research: Efficient MoE/LLM Serving Systems on Edge Devices   
+    * Co-authored [MobiCom'25](https://arxiv.org/pdf/2504.15299), Research: Efficient MoE/LLM Serving Systems on Edge Devices   
     * Current: Ph.D. Student in Computer Science, Hong Kong University of Science and Technology   
 
 * [Ruibin Li](https://hkpeilab.github.io/people/ruibin-li/) (Tianjin Univeristy)  

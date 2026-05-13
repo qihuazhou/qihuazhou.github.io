@@ -81,15 +81,12 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 
 
 
-
-
-
 &nbsp;  
 
 ### Recent News
 ---
 
-* 2026.05: **[Paper]** [Spik4lite](https://icml.cc/Conferences/2026) has been accepted by [ICML'26](https://icml.cc/Conferences/2026).  
+* 2026.05: **[Paper]** [Spik4lite](https://github.com/yongzhishe/Spik4lite) has been accepted by [ICML'26 (CCF-A)](https://icml.cc/virtual/2026/poster/63522).  
 * 2026.04 **[Competition]** [Controlling a Marathon Robot from 2000+ KM!](https://mp.weixin.qq.com/s/vj7OG17E1B-T5zhCYN18Fg), [Beijing E-Town Humanoid Robot Half Marathon](https://etown-halfmarathon.ejplay.com.cn/).  
 * 11/2025: **[Paper]** [DeNC++](https://ojs.aaai.org/index.php/AAAI/article/view/40135) has been accepted by [AAAI'26 (CCF-A)](https://aaai.org/conference/aaai/aaai-26/).  
 * 04/2025: **[Paper]** [D2MoE](https://arxiv.org/pdf/2504.15299) has been accepted by [ACM MobiCom'25 (CCF-A)](https://www.sigmobile.org/mobicom/2025/cfp.html).  
@@ -102,3 +99,8 @@ Embracing this closed-loop design philosophy, his vision is to extend the bounda
 * 04/2024: **[Paper]** [ParsNets](https://arxiv.org/pdf/2312.09709) has been accepted by [IJCAI'24](https://ijcai24.org/).  
 * 01/2024: **[Paper]** [PASS](https://ieeexplore.ieee.org/document/10381763) has been accepted by [IEEE TPAMI'24 (CCF-A)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34).   
 * 01/2024: **[Paper]** [Chiron](https://ieeexplore.ieee.org/document/10382540) has been accepted by [IEEE TMC'24 (CCF-A)](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755).   
+
+
+
+
+
