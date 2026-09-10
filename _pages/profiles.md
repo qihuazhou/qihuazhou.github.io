@@ -9,15 +9,35 @@ nav_order: 3
 
 I am fortunate to work with these talented people:
 
-### Research Students
+### People
 
-* Wenjun Lan (University of Electronic Science and Technology)  
+##### Research Staff
+* [Yushuang Zheng](https://yushuangzheng.github.io/) (Shenzhen University)  
+    * 06/2026 – : Research Assistant (Chief Supervisor)
+    * Award: Outstanding Undergraduate Thesis of Shenzhen University
+    * 03/2025 – 06/2026: Undergraduate Reserach Intern 
+
+
+##### PhD Student
+* [Wenjun Lan]() (University of Electronic Science and Technology)  
     * 05/2025 – : PhD Student (Chief Supervisor) 
 
+* [Yukun Zheng](https://yukun-zheng.github.io/Yukun-Zheng/) (Shenzhen University)  
+    * 09/2026 – : PhD Student (Chief Supervisor)
+    * 06/2026 – 09/2026: Undergraduate Reserach Intern
+
+* [Wenqiang Deng](https://acedeng1217.github.io/wenqiang/) (Changsha University of Science and Technology)  
+    * 09/2026 – : PhD Student (Chief Supervisor)
+
+* [Zhongkun Wang]() (Shenzhen University)  
+    * 09/2026 – : PhD Student (Chief Supervisor)
+
+
+##### Master Student
 * [Yongzhi She](https://yongzhishe.github.io/) (Wuyi University)  
     * First author: [ICML'26](https://icml.cc/virtual/2026/poster/63522), Research: Efficient SNNs on Commodity Edge Devices   
     * 04/2025 – : Master Student (Chief Supervisor)
-    * 09/2024 – 03/2025: Undergraduate Reserach Intern (Chief Supervisor)  
+    * 09/2024 – 03/2025: Undergraduate Reserach Intern  
 
 * [Yuquan Lu](https://yuquanlu01.github.io/) (Shanxi University)  
     * 04/2025 – : Master Student (Chief Supervisor)
@@ -27,26 +47,27 @@ I am fortunate to work with these talented people:
     * 04/2025 – : Master Student (Chief Supervisor) 
     * 07/2024 – 03/2025: Undergraduate Reserach Intern (Co-supervised with Prof. Shuiwang Li) 
 
-* [Yuhao Wang](https://yuhaow182.github.io/) (Wuyi University)  
-    * 04/2026 – : Master Student (Chief Supervisor)
-    * 09/2025 – 03/2026: Undergraduate Reserach Intern (Chief Supervisor) 
-
 * [Yutong He](https://ytonghe.github.io/) (Hunan University of Technology and Business)  
     * 04/2026 – : Master Student (Chief Supervisor)
 
 * [Shiyu Liu](https://wmjingliu.github.io/) (Jiangxi Agricultural University)  
     * 04/2026 – : Master Student (Chief Supervisor)
 
-* [Mingkang Mi](https://mingkangmi.github.io/) (ChenDu University of Technology)  
-    * 04/2026 – : Master Student (Chief Supervisor)
-
-* [Yushuang Zheng](https://yushuangzheng.github.io/) (Shenzhen University)  
-    * Award: Outstanding Undergraduate Thesis of Shenzhen University
-    * 03/2025 – : Undergraduate Reserach Intern (Chief Supervisor)   
+###### Undergraduate Student
+* [Ruijian Huang] (Shenzhen University)  
+    * 09/2025 – : Undergraduate Reserach Intern (Chief Supervisor) 
 
 * [Haobin Xu](https://haobinxu2025.github.io/) (Shenzhen University)  
     * 09/2025 – : Undergraduate Reserach Intern (Chief Supervisor) 
 
+
+
+<!-- * [Mingkang Mi](https://mingkangmi.github.io/) (ChenDu University of Technology)  
+    * 04/2026 – : Master Student (Chief Supervisor)
+
+* [Yuhao Wang](https://yuhaow182.github.io/) (Wuyi University)  
+    * 04/2026 – : Master Student (Chief Supervisor)
+    * 09/2025 – 03/2026: Undergraduate Reserach Intern (Chief Supervisor)  -->
 
 
 ### Alumni
